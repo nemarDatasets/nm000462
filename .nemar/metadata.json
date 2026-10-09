@@ -1,0 +1,92 @@
+{
+  "version": "2.0",
+  "pipeline_stage": "validated",
+  "authors": {
+    "William K. Ojemann": {
+      "orcid": "0009-0007-5166-536X"
+    },
+    "Brian Litt": {
+      "orcid": "0000-0003-2732-6927"
+    },
+    "Erin Conrad": {}
+  },
+  "related_identifiers": [
+    {
+      "identifier": "10.26275/toip-zio0",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "10.1101/2025.08.29.25334082",
+      "identifier_type": "DOI",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/nm000462",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/nm000462",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    }
+  ],
+  "title": "stim-seizures (Ojemann et al.; HUP + CHOP): seizure annotations, electrode localisations and preprocessed SEEG seizure traces (derivative)",
+  "license": "CC-BY-NC-SA-4.0",
+  "dataset_type": "derivative",
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "ieeg"
+  ],
+  "resource_type_specific": "iEEG Dataset",
+  "sizes": [
+    "568 MB (29 files)"
+  ],
+  "formats": [
+    ".csv",
+    ".eeg",
+    ".h5",
+    ".jpg",
+    ".json",
+    ".mat",
+    ".md",
+    ".pdf",
+    ".pkl",
+    ".tsv",
+    ".vhdr",
+    ".vmrk"
+  ],
+  "description": "A derivative BIDS-iEEG repackaging of the processed 'stim-seizures' release from the Penn CNT group. It contains seizure annotations (clinician-marked and LSTM model-derived), electrode localisations, and a small set of preprocessed bipolar SEEG seizure traces from patients at HUP and CHOP who received 1 Hz low-frequency electrical stimulation. It includes no raw iEEG recordings and supports analyses of whether stimulation-induced seizures can replace spontaneous seizures and of the networks that generate them.",
+  "methods_description": "Patients underwent intracranial EEG evaluation at HUP and CHOP and received low-frequency (1 Hz) electrical stimulation. Seizures were clinician-annotated and also annotated by an optimized LSTM model. Electrode contacts were localised to atlas regions. Released seizure traces are preprocessed bipolar SEEG at 128 Hz, stored as BrainVision float32.",
+  "keywords": [
+    {
+      "term": "intracranial EEG"
+    },
+    {
+      "term": "stereo-EEG"
+    },
+    {
+      "term": "Seizures",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D012640"
+    },
+    {
+      "term": "Epilepsy",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
+    },
+    {
+      "term": "Electric Stimulation",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004558"
+    },
+    {
+      "term": "seizure annotation"
+    },
+    {
+      "term": "electrode localisation"
+    }
+  ],
+  "source_hash": "5eb20c97d2443eb361380175b5b80b6c5f66576d53902f73c1cbaebeb42d1cc4"
+}
