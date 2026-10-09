@@ -1,0 +1,8 @@
+{
+  "atlas_label": {
+    "Description": "Anatomical label of the contact as given in the source localisation file ('label' column)"
+  },
+  "isgrey": {
+    "Description": "'isgrey' column of the CHOP localisation file as released (coding not stated in the release)"
+  }
+}

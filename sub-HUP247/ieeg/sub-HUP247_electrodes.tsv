@@ -1,0 +1,61 @@
+name	x	y	z	size	atlas_label	atlas_index	labels_sorted	percent_assigned
+RP01	104.346	61.4283	117.318	n/a	right precuneus	2025	right precuneus	1.0000
+RP02	109.69	61.3188	117.994	n/a	right precuneus	2025	right precuneus|right cuneus|EmptyLabel	0.6364|0.3333|0.0303
+RP03	114.581	61.3366	118.654	n/a	EmptyLabel	0	EmptyLabel|right superior parietal	0.9697|0.0303
+RP04	119.471	61.3544	119.314	n/a	right inferior parietal	2008	right inferior parietal|EmptyLabel|right superior parietal	0.6364|0.2727|0.0909
+RP05	124.815	61.2449	119.99	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RP06	130.159	61.1354	120.665	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RP07	135.165	61.5837	121.494	n/a	right inferior parietal	2008	right inferior parietal|EmptyLabel	0.9697|0.0303
+RP08	140.055	61.6015	122.154	n/a	right inferior parietal	0	EmptyLabel|right inferior parietal	0.8485|0.1515
+RP09	144.946	61.6193	122.814	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RP10	150.171	61.1934	124.538	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RP11	156.085	61.387	125.398	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RP12	161.43	61.2775	126.073	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RV01	96.194	58.5392	99.9001	n/a	right cuneus	2005	right cuneus|EmptyLabel	0.9394|0.0606
+RV02	101.319	59.3039	99.6797	n/a	right pericalcarine	0	EmptyLabel|right pericalcarine	0.6667|0.3333
+RV03	106.898	59.9412	99.4748	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RV04	112.023	60.7059	99.2544	n/a	right cuneus	2005	right cuneus|EmptyLabel|right precuneus	0.8182|0.1212|0.0606
+RV05	116.459	60.8511	99.899	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RV06	121.246	62.1736	99.8315	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RV07	126.825	62.8109	99.6266	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RV08	131.834	63.1451	99.2379	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RV09	136.84	63.5934	100.066	n/a	right inferior parietal	2008	right inferior parietal|EmptyLabel	0.5758|0.4242
+RV10	141.965	64.358	99.846	n/a	right inferior parietal	2008	right inferior parietal|EmptyLabel	0.8788|0.1212
+RV11	147.429	64.5649	99.4727	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RV12	152.099	65.4569	99.2368	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RW01	99.4702	73.8747	135.212	n/a	right precuneus	2025	right precuneus|EmptyLabel	0.9091|0.0909
+RW02	104.241	73.5762	136.921	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RW03	109.466	73.1503	138.645	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RW04	114.237	72.8517	140.354	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RW05	119.008	72.5531	142.063	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RW06	123.78	72.2546	143.772	n/a	right superior parietal	0	EmptyLabel|right superior parietal	0.8485|0.1515
+RW07	128.889	71.3982	145.328	n/a	right superior parietal	2029	right superior parietal|EmptyLabel	0.6061|0.3939
+RW08	133.779	71.416	145.988	n/a	right superior parietal	0	EmptyLabel|right superior parietal	0.7576|0.2424
+RW09	138.773	70.1292	147.376	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RW10	144.114	70.1338	149.269	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RW11	148.55	70.2789	149.913	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RW12	153.775	69.853	151.638	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RX01	95.6414	87.7352	113.727	n/a	right isthmus cingulate	2010	right isthmus cingulate|EmptyLabel	0.8788|0.1212
+RX02	101.105	87.9421	113.354	n/a	EmptyLabel	0	EmptyLabel|right isthmus cingulate	0.9697|0.0303
+RX03	105.995	87.9599	114.014	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RX04	110.888	87.8636	113.456	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RX05	116.233	87.7541	114.132	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RX06	121.242	88.0883	113.743	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RX07	126.705	88.2952	113.37	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RX08	131.025	88.0099	113.846	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RX09	136.489	88.2167	113.473	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RX10	141.952	88.4236	113.1	n/a	right supramarginal	0	EmptyLabel|right supramarginal	0.8182|0.1818
+RX11	146.727	88.0109	113.592	n/a	right supramarginal	0	EmptyLabel|right supramarginal	0.6364|0.3636
+RX12	152.19	88.2178	113.218	n/a	right supramarginal	0	EmptyLabel|right supramarginal	0.6667|0.3333
+RY01	122.213	92.1263	102.359	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RY02	127.235	94.1956	101.411	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RY03	132.137	95.9486	101.512	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RY04	136.924	97.2711	101.445	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RY05	141.491	99.4678	100.481	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RY06	146.277	100.79	100.414	n/a	right superior temporal	0	EmptyLabel|right superior temporal	0.8485|0.1515
+RY07	151.299	102.86	99.4656	n/a	right superior temporal	0	EmptyLabel|right superior temporal	0.7273|0.2727
+RY08	156.54	104.055	99.4136	n/a	right superior temporal	0	EmptyLabel|right superior temporal	0.6970|0.3030
+RY09	159.848	105.329	99.1312	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RY10	165.658	106.827	99.2631	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RY11	170.11	108.593	98.1313	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RY12	174.442	110.043	98.0483	n/a	EmptyLabel	0	EmptyLabel	1.0000

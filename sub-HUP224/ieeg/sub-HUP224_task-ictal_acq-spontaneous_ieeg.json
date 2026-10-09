@@ -1,0 +1,17 @@
+{
+  "TaskName": "ictal",
+  "TaskDescription": "Spontaneous seizure trace released by the authors to plot manuscript figures (file plot_sz_224.pkl).",
+  "SamplingFrequency": 128.0,
+  "PowerLineFrequency": 60,
+  "RecordingDuration": 330.9922,
+  "RecordingType": "epoched",
+  "SoftwareFilters": {
+    "stim-seizures-manuscript preprocessing": {
+      "Description": "Preprocessed by the authors (bipolar montage, resampled to 128 Hz; see code/seizure_preprocessing_sandbox.ipynb and stim_seizure_preprocessing_utils.py in github.com/penn-cnt/stim-seizures-manuscript). Exact filter settings are not stated in the deposit."
+    }
+  },
+  "iEEGReference": "bipolar: each channel is the difference of two adjacent contacts on the same lead (names 'A-B')",
+  "SEEGChannelCount": 153,
+  "ECOGChannelCount": 0,
+  "Description": "Values copied from the released pandas pickle (float64) to IEEE float32. Sampling rate 128 Hz is the value used by the authors' plotting notebook (fs = 128); amplitude units are not stated in the source (channels.tsv units n/a). Time zero is the first sample of the released trace, not the recording start."
+}

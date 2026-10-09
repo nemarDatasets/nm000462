@@ -1,0 +1,64 @@
+{
+  "participant_id": {
+    "Description": "BIDS label = the patient code used in the release (HUP### / CHOP###, public pseudonyms of the source)"
+  },
+  "source_id": {
+    "Description": "Patient code in the release"
+  },
+  "center": {
+    "Description": "Recording centre",
+    "Levels": {
+      "HUP": "Hospital of the University of Pennsylvania",
+      "CHOP": "Children's Hospital of Philadelphia"
+    }
+  },
+  "sex": {
+    "Description": "Sex as released (HUP: metadata-4.csv code 1 = M, 2 = F, mapping from the authors' code/metadata_notebook.ipynb; CHOP: CHOP_metadata.csv)",
+    "Levels": {
+      "M": "male",
+      "F": "female"
+    }
+  },
+  "age": {
+    "Description": "CHOP only: 'precise age at time of recording (y)' from CHOP_metadata.csv, rounded to 0.1 y. Not released for HUP patients.",
+    "Units": "year"
+  },
+  "handedness": {
+    "Description": "CHOP only, as released (free text)"
+  },
+  "stim_seizure": {
+    "Description": "stim_sz column of the release: 1 = a stimulation-induced seizure was recorded"
+  },
+  "unifocal": {
+    "Description": "unifocal column as released"
+  },
+  "mtle": {
+    "Description": "CHOP only: mtle column as released"
+  },
+  "localization": {
+    "Description": "HUP only: localization column as released (MTLE, LTLE, Other, Diffuse, combinations)"
+  },
+  "lesional_code": {
+    "Description": "lesional column as released (HUP: 0/1/2, coding not stated in the release; CHOP: 0/1)"
+  },
+  "implant_code": {
+    "Description": "HUP only: Implant column as released (coding not stated in the release)"
+  },
+  "outcome": {
+    "Description": "outcome column as released (coding not stated in the release; empty = n/a)"
+  },
+  "age_at_onset": {
+    "Description": "Age at epilepsy onset as released",
+    "Units": "year"
+  },
+  "epilepsy_duration": {
+    "Description": "Duration of epilepsy as released (HUP 'duration'; CHOP 'duration of epilepsy prior to stim (y)', rounded to 0.01)",
+    "Units": "year"
+  },
+  "n_seizures_annotated": {
+    "Description": "Rows for this patient in stim_seizure_information_BIDS.csv (see sub-*/ieeg/*_seizures.tsv)"
+  },
+  "n_seizures_model": {
+    "Description": "Rows for this patient in the optimized LSTM model annotation table (see sub-*/ieeg/*_seizures.tsv)"
+  }
+}

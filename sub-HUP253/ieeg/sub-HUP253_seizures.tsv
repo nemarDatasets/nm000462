@@ -1,0 +1,19 @@
+source_table	recording	approximate_onset	offset	EEC	UEO	Other_onset_description	stim	stim_channels	to_annotate	typical	mtl	model	threshold	ueo_chs_strict	ueo_chs_loose	sec_chs_strict	sec_chs_loose
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP253_phaseII	7976.34	8019.54	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	RB02 RB03	RB02 RB03 RB04	RB02 RB03	RB02 RB03 RB04
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP253_CCEP	15516.73	15553.41	n/a	n/a	n/a	1	n/a	n/a	n/a	n/a	LSTM	1.4632843791722296	RA04	RA04 RA05	RC01 RC02 RX01	RC01 RC02 RC03 RX01 RX02
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP253_phaseII	45666.63	45701.94	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	RB02 RB03	RB02 RB03 RB04	RB02 RB03 RX01	RB02 RB03 RB04 RX01 RX02
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP253_phaseII	54112.45	54147.49	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	RA03 RB02 RB03	RA03 RA04 RB02 RB03 RB04	RB02 RB03 RX01	RB02 RB03 RB04 RX01 RX02
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP253_phaseII	68657.34	68689.13	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	RB02 RB03	RB02 RB03 RB04	RB02 RB03 RX01	RB02 RB03 RB04 RX01 RX02
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP253_phaseII	75023.46	75060.48	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	RA03 RB01 RB02 RB03 RC01 RX01	RA03 RA04 RB01 RB02 RB03 RB04 RC01 RC02 RX01 RX02	RB02 RB03 RC01 RX01	RB02 RB03 RB04 RC01 RC02 RX01 RX02
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP253_phaseII	101128.1	101162.01	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	RB02 RB03	RB02 RB03 RB04	RB02 RB03 RX01	RB02 RB03 RB04 RX01 RX02
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP253_phaseII	272901.56	272933.38	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	RB02 RB03 RC02	RB02 RB03 RB04 RC02 RC03	RB02 RB03 RB04 RC01 RC02 RX01	RB02 RB03 RB04 RB05 RC01 RC02 RC03 RX01 RX02
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP253_phaseII	286026.36	286062.06	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	RA03 RB02 RB03 RC02	RA03 RA04 RB02 RB03 RB04 RC02 RC03	RA04 RB02 RB03 RB04 RC02	RA04 RA05 RB02 RB03 RB04 RB05 RC02 RC03
+stim_seizure_information_BIDS.csv	HUP253_phaseII	7976.34	8019.54	n/a	7976.336914	7976.407226	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP253_CCEP	15516.73	15553.41	n/a	15516.72949	n/a	1	RB2-RB3	1	0	1	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP253_phaseII	45666.63	45701.94	n/a	45666.63184	45666.71094	0	n/a	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP253_phaseII	54112.45	54147.49	n/a	54112.44629	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP253_phaseII	68657.34	68689.13	n/a	68657.33771	n/a	0	n/a	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP253_phaseII	75023.46	75060.48	n/a	75023.66877	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP253_phaseII	101128.1	101162.01	n/a	101128.0985	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP253_phaseII	272901.56	272933.38	n/a	272901.5565	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP253_phaseII	286026.36	286062.06	n/a	286026.3612	n/a	0	n/a	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a

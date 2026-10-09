@@ -1,0 +1,133 @@
+name	x	y	z	size	atlas_label	atlas_index	labels_sorted	percent_assigned
+LA01	66.9451	136.245	137.501	n/a	left amygdala	18	left amygdala|EmptyLabel	0.9394|0.0606
+LA02	61.7876	135.378	136.911	n/a	left amygdala	0	EmptyLabel|left amygdala	0.6970|0.3030
+LA03	56.6302	134.511	136.322	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LA04	50.873	133.312	136.77	n/a	left superior temporal	0	EmptyLabel|left superior temporal	0.9394|0.0606
+LA05	45.7156	132.445	136.181	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LA06	40.5581	131.577	135.592	n/a	left middle temporal	0	EmptyLabel|left middle temporal	0.8182|0.1818
+LA07	34.801	130.379	136.04	n/a	left middle temporal	0	EmptyLabel|left middle temporal	0.9394|0.0606
+LA08	29.1636	130.097	135.657	n/a	left middle temporal	0	EmptyLabel|left middle temporal	0.9394|0.0606
+LA09	23.4564	129.304	135.07	n/a	left middle temporal	1015	left middle temporal	1.0000
+LA10	18.2491	128.031	135.516	n/a	EmptyLabel	0	EmptyLabel|left middle temporal	0.9697|0.0303
+LA11	11.9921	127.312	134.932	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LA12	7.40435	126.476	135.579	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LB01	62.2597	126.653	129.92	n/a	left hippocampus	17	left hippocampus	1.0000
+LB02	56.9825	124.869	130.162	n/a	left hippocampus	17	left hippocampus|EmptyLabel	0.9394|0.0606
+LB03	51.845	124.107	130.812	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LB04	46.018	122.397	131.057	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LB05	40.8107	121.124	131.503	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LB06	35.6033	119.851	131.949	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LB07	30.396	118.578	132.395	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LB08	24.0891	117.454	132.846	n/a	left middle temporal	0	EmptyLabel|left middle temporal	0.6970|0.3030
+LB09	19.3617	115.595	133.085	n/a	left middle temporal	1015	left middle temporal	1.0000
+LB10	13.6744	114.908	133.738	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LB11	8.46706	113.635	134.184	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LB12	3.25972	112.362	134.63	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LC01	63.052	115.932	129.343	n/a	left hippocampus	17	left hippocampus|EmptyLabel	0.6667|0.3333
+LC02	57.6351	113.124	129.177	n/a	left hippocampus	17	left hippocampus|EmptyLabel	0.7879|0.2121
+LC03	52.9077	111.266	129.416	n/a	left hippocampus	0	EmptyLabel|left hippocampus	0.8788|0.1212
+LC04	48.0406	108.384	129.248	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LC05	42.6936	106.088	129.285	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LC06	37.8963	103.718	129.321	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LC07	33.1689	101.859	129.56	n/a	left middle temporal	0	EmptyLabel|left middle temporal|left superior temporal	0.6667|0.3030|0.0303
+LC08	28.3018	98.9775	129.391	n/a	left middle temporal	0	EmptyLabel|left middle temporal	0.6061|0.3939
+LC09	22.9548	96.6815	129.429	n/a	left middle temporal	1015	left middle temporal|EmptyLabel	0.5758|0.4242
+LC10	17.677599999999998	94.897	129.671	n/a	left middle temporal	0	EmptyLabel|left middle temporal	0.7576|0.2424
+LC11	12.8804	92.5268	129.706	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LC12	7.60318	90.7423	129.948	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LF01	60.3961	105.002	115.351	n/a	left fusiform	1007	left fusiform|left cerebellem exterior	0.9394|0.0606
+LF02	54.7088	104.315	116.004	n/a	left fusiform	1007	left fusiform|EmptyLabel	0.6667|0.3333
+LF03	49.1413	104.545	115.825	n/a	left fusiform	0	EmptyLabel|left fusiform	0.8182|0.1818
+LF04	44.0037	103.784	116.475	n/a	left fusiform	1007	left fusiform|EmptyLabel	0.9394|0.0606
+LF05	37.8864	104.088	116.299	n/a	left inferior temporal	1009	left inferior temporal	1.0000
+LF06	32.249	103.806	115.916	n/a	left inferior temporal	0	EmptyLabel|left inferior temporal	0.8182|0.1818
+LF07	26.6316	103.63	116.772	n/a	left inferior temporal	0	EmptyLabel|left inferior temporal	0.6667|0.3333
+LF08	20.9942	103.349	116.389	n/a	left inferior temporal	1009	left inferior temporal|EmptyLabel	0.6061|0.3939
+LF09	15.9764	103.505	116.208	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LF10	10.8389	102.743	116.858	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LF11	4.65179	102.536	116.478	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LF12	-0.415879	102.286	117.332	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LG01	68.4968	127.548	120.997	n/a	left parahippocampal	1016	left parahippocampal|EmptyLabel	0.8485|0.1515
+LG02	62.9292	127.778	120.818	n/a	left parahippocampal	0	EmptyLabel|left parahippocampal	0.9394|0.0606
+LG03	57.3816	128.114	121.879	n/a	left parahippocampal	1016	left parahippocampal|EmptyLabel	0.8182|0.1818
+LG04	52.3638	128.27	121.697	n/a	left fusiform	1007	left fusiform|EmptyLabel	0.7576|0.2424
+LG05	46.2465	128.574	121.521	n/a	left fusiform	0	EmptyLabel|left fusiform	0.6667|0.3333
+LG06	40.6989	128.91	122.582	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LG07	35.1314	129.14	122.403	n/a	left inferior temporal	1009	left inferior temporal|EmptyLabel	0.9394|0.0606
+LG08	30.6634	129.221	122.219	n/a	left inferior temporal	1009	left inferior temporal|left middle temporal|EmptyLabel	0.4848|0.3939|0.1212
+LG09	23.9464	129.194	123.081	n/a	left middle temporal	1015	left middle temporal|EmptyLabel	0.6667|0.3333
+LG10	18.9985	129.861	123.104	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LG11	12.8812	130.165	122.927	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LG12	7.93322	130.833	122.95	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LI01	65.8195	161.533	125.822	n/a	left superior temporal	1030	left superior temporal|EmptyLabel|left inferior temporal	0.9091|0.0606|0.0303
+LI02	59.9925	159.823	126.066	n/a	left superior temporal	0	EmptyLabel|left superior temporal|left inferior temporal	0.7273|0.2424|0.0303
+LI03	54.9049	159.467	125.681	n/a	left middle temporal	0	EmptyLabel|left middle temporal|left superior temporal|left inferior temporal	0.3636|0.2727|0.2424|0.1212
+LI04	49.1977	158.674	125.094	n/a	left middle temporal	1015	left middle temporal|EmptyLabel|left inferior temporal	0.8182|0.1515|0.0303
+LI05	43.9904	157.401	125.54	n/a	left middle temporal	0	EmptyLabel|left middle temporal	0.9091|0.0909
+LI06	38.353	157.119	125.157	n/a	left middle temporal	0	EmptyLabel|left middle temporal	0.8182|0.1818
+LI07	32.5959	155.92	125.605	n/a	left middle temporal	1015	left middle temporal|EmptyLabel	0.9697|0.0303
+LI08	27.4384	155.053	125.016	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LI09	21.801	154.771	124.633	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LI10	16.1636	154.49	124.25	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LI11	10.4065	153.291	124.699	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LI12	4.76914	153.009	124.316	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LH01	44.4935	102.264	145.827	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LH02	41.8533	107.613	145.404	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LH03	39.643299999999996	111.97	145.81	n/a	EmptyLabel	0	EmptyLabel|left superior temporal	0.9697|0.0303
+LH04	37.5728	117.35	146.623	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LH05	34.8828	122.293	147.236	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LH06	32.7925	127.568	146.81	n/a	left superior temporal	1030	left superior temporal|EmptyLabel	0.6970|0.3030
+LH07	30.5824	131.925	147.216	n/a	left superior temporal	1030	left superior temporal|EmptyLabel	0.7879|0.2121
+LH08	27.9423	137.273	146.793	n/a	left superior temporal	0	EmptyLabel|left superior temporal|left middle temporal	0.6667|0.2121|0.1212
+LH09	25.2522	142.216	147.405	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LH10	23.0421	146.573	147.811	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LH11	19.8523	151.996	147.39	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LH12	17.6921	156.759	146.76	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LP01	85.8153	59.9639	145.592	n/a	left precuneus	1025	left precuneus|EmptyLabel	0.8788|0.1212
+LP02	80.1779	59.6823	145.209	n/a	left precuneus	1025	left precuneus	1.0000
+LP03	75.1103	59.4324	146.063	n/a	left precuneus	1025	left precuneus|left cuneus|EmptyLabel	0.7273|0.2121|0.0606
+LP04	69.4928	59.2567	146.92	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LP05	64.4252	59.0068	147.774	n/a	left superior parietal	0	EmptyLabel|left superior parietal	0.6061|0.3939
+LP06	58.2579	58.9052	148.633	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LP07	53.1903	58.6554	149.487	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LP08	47.5728	58.4796	150.344	n/a	left inferior parietal	0	EmptyLabel|left inferior parietal	0.6970|0.3030
+LP09	42.5052	58.2298	151.198	n/a	left inferior parietal	1008	left inferior parietal|EmptyLabel	0.8788|0.1212
+LP10	36.2182	57.211	152.888	n/a	left inferior parietal	1008	left inferior parietal	1.0000
+LP11	31.1306	56.8552	152.503	n/a	left inferior parietal	0	EmptyLabel|left inferior parietal	0.6667|0.3333
+LP12	24.8437	55.8364	154.193	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LV01	58.014	114.854	160.996	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LV02	52.3966	114.679	161.852	n/a	left insula	0	EmptyLabel|left insula	0.5455|0.4545
+LV03	47.3289	114.429	162.707	n/a	left postcentral	1022	left postcentral|EmptyLabel|left insula	0.5152|0.4242|0.0606
+LV04	41.6616	113.847	164.599	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LV05	36.0442	113.672	165.455	n/a	left postcentral	0	EmptyLabel|left postcentral	0.6970|0.3030
+LV06	30.4267	113.496	166.312	n/a	left postcentral	0	EmptyLabel|left postcentral	0.6061|0.3939
+LV07	25.379	113.352	168.405	n/a	EmptyLabel	0	EmptyLabel|left postcentral	0.9697|0.0303
+LV08	19.7616	113.176	169.262	n/a	left postcentral	0	EmptyLabel|left postcentral	0.6970|0.3030
+LV09	14.214	113.512	170.323	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LV10	9.09641	112.857	172.212	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LV11	3.54881	113.192	173.273	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LV12	-2.11852	112.611	175.165	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LW01	81.3352	67.7968	159.221	n/a	left precuneus	0	EmptyLabel|left precuneus	0.5455|0.4545
+LW02	76.2176	67.1413	161.111	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LW03	70.6002	66.9656	161.968	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LW04	65.5325	66.7157	162.822	n/a	left superior parietal	0	EmptyLabel|left superior parietal	0.5455|0.4545
+LW05	59.9151	66.54	163.678	n/a	left superior parietal	0	EmptyLabel|left superior parietal|left inferior parietal	0.4545|0.4545|0.0909
+LW06	54.2278	65.8527	164.331	n/a	left inferior parietal	1008	left inferior parietal|EmptyLabel	0.7273|0.2727
+LW07	48.6104	65.677	165.187	n/a	EmptyLabel	0	EmptyLabel|left supramarginal	0.9697|0.0303
+LW08	43.4928	65.0214	167.077	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LW09	37.8754	64.8457	167.934	n/a	left supramarginal	1031	left supramarginal|left inferior parietal	0.9697|0.0303
+LW10	32.8077	64.5958	168.788	n/a	left supramarginal	1031	left supramarginal|EmptyLabel	0.8182|0.1818
+LW11	27.1204	63.9086	169.44	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LW12	21.503	63.7329	170.297	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LX01	87.4174	87.9016	162.615	n/a	left isthmus cingulate	0	EmptyLabel|left isthmus cingulate	0.8788|0.1212
+LX02	82.2101	86.6287	163.061	n/a	left isthmus cingulate	0	EmptyLabel|left isthmus cingulate	0.6667|0.3333
+LX03	76.5228	85.9414	163.714	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LX04	71.3155	84.6685	164.159	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LX05	65.6282	83.9812	164.812	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LX06	59.8711	82.7824	165.261	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LX07	54.7336	82.021	165.911	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LX08	48.9764	80.8222	166.359	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LX09	43.2892	80.1349	167.012	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LX10	38.1317	79.2676	166.422	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LX11	32.4444	78.5803	167.075	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LX12	26.7572	77.8931	167.727	n/a	left supramarginal	1031	left supramarginal|EmptyLabel	0.7273|0.2727

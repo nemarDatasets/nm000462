@@ -1,0 +1,141 @@
+name	x	y	z	size	atlas_label	atlas_index	labels_sorted	percent_assigned
+LA01	95.5355	129.152	60.4199	n/a	left amygdala	18	left amygdala|left hippocampus	0.9697|0.0303
+LA02	90.8723	128.736	59.7096	n/a	left amygdala	18	left amygdala|left hippocampus	0.7576|0.2424
+LA03	85.7008	128.294	59.0428	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LA04	80.5413	127.366	58.2225	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LA05	74.7366	128.18	56.9585	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LA06	69.5771	127.251	56.1382	n/a	left middle temporal	0	EmptyLabel|left middle temporal	0.8788|0.1212
+LA07	64.4056	126.809	55.4714	n/a	left middle temporal	1015	left middle temporal|EmptyLabel	0.7273|0.2727
+LA08	59.7424	126.393	54.7612	n/a	left middle temporal	0	EmptyLabel|left middle temporal	0.8485|0.1515
+LA09	55.0673	126.463	54.2044	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LA10	50.4041	126.048	53.4941	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LA11	45.7408	125.632	52.7839	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LA12	40.5694	125.189	52.1171	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LB01	90.5221	116.747	60.21	n/a	left hippocampus	17	left hippocampus|EmptyLabel	0.8485|0.1515
+LB02	85.1226	116.316	62.7361	n/a	left hippocampus	17	left hippocampus|EmptyLabel	0.8182|0.1818
+LB03	80.1419	115.737	64.1177	n/a	EmptyLabel	0	EmptyLabel|left hippocampus	0.9697|0.0303
+LB04	75.6575	115.67	65.6095	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LB05	71.1731	115.604	67.1012	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LB06	66.6887	115.537	68.5929	n/a	left superior temporal	0	EmptyLabel|left superior temporal|left middle temporal	0.6970|0.2121|0.0909
+LB07	60.781	115.079	71.1624	n/a	left middle temporal	0	EmptyLabel|left middle temporal|left superior temporal	0.5758|0.2424|0.1818
+LB08	55.7884	114.986	72.6976	n/a	left superior temporal	0	EmptyLabel|left superior temporal|left middle temporal	0.8182|0.1515|0.0303
+LB09	51.3041	114.919	74.1893	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LB10	51.3041	114.919	74.1893	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LB11	45.9046	114.488	76.7154	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LB12	40.912	114.394	78.2505	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LC01	91.3854	108.251	64.8473	n/a	left hippocampus	0	EmptyLabel|left hippocampus	0.7879|0.2121
+LC02	86.5059	107.36	67.1765	n/a	left hippocampus	17	left hippocampus|EmptyLabel	0.9697|0.0303
+LC03	81.5252	106.781	68.5582	n/a	left hippocampus	0	EmptyLabel|left hippocampus	0.7576|0.2424
+LC04	77.0527	106.229	69.8964	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LC05	71.6532	105.797	72.4225	n/a	left superior temporal	0	EmptyLabel|left superior temporal	0.6364|0.3636
+LC06	67.1807	105.245	73.7608	n/a	left superior temporal	1030	left superior temporal|left middle temporal	0.9394|0.0606
+LC07	62.7082	104.692	75.099	n/a	left superior temporal	1030	left superior temporal|EmptyLabel	0.8182|0.1818
+LC08	57.8169	104.288	77.5817	n/a	left superior temporal	1030	left superior temporal|EmptyLabel	0.9697|0.0303
+LC09	52.328	103.682	79.0067	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LC10	48.9613	103.358	81.3592	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LC11	43.5618	102.926	83.8852	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LC12	38.061	102.806	85.4638	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LE01	110.177	150.806	104.762	n/a	left caudal anterior cingulate	1002	left caudal anterior cingulate|EmptyLabel	0.7879|0.2121
+LE02	105.669	151.711	106.561	n/a	EmptyLabel	0	EmptyLabel|left caudal anterior cingulate	0.9697|0.0303
+LE03	100.641	153.075	108.557	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LE04	95.6243	153.954	110.399	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LE05	91.1161	154.859	112.197	n/a	left rostral middle frontal	1027	left rostral middle frontal|EmptyLabel	0.6970|0.3030
+LE06	87.0031	156.589	113.159	n/a	left rostral middle frontal	1027	left rostral middle frontal	1.0000
+LE07	81.9868	157.467	115.001	n/a	left rostral middle frontal	1027	left rostral middle frontal|EmptyLabel	0.9697|0.0303
+LE08	76.9704	158.346	116.843	n/a	left rostral middle frontal	0	EmptyLabel|left rostral middle frontal	0.9394|0.0606
+LE09	73.3656	160.102	117.761	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LE10	67.8411	160.954	119.646	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LE11	63.8412	161.886	121.401	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LE12	58.813	163.25	123.397	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LF01	84.757	87.9531	59.1625	n/a	left fusiform	1007	left fusiform	1.0000
+LF02	80.3739	87.5752	61.6018	n/a	left fusiform	1007	left fusiform|EmptyLabel	0.6364|0.3636
+LF03	75.4945	86.6847	63.9309	n/a	left inferior temporal	1009	left inferior temporal|EmptyLabel|left fusiform	0.5455|0.4242|0.0303
+LF04	71.1114	86.3068	66.3702	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LF05	66.6389	85.7544	67.7084	n/a	left inferior temporal	1009	left inferior temporal|left middle temporal	0.7273|0.2727
+LF06	61.7595	84.8638	70.0376	n/a	left middle temporal	1015	left middle temporal|EmptyLabel	0.9091|0.0909
+LF07	56.8682	84.4592	72.5203	n/a	left middle temporal	1015	left middle temporal|EmptyLabel	0.9394|0.0606
+LF08	53.4121	83.9603	73.7717	n/a	EmptyLabel	0	EmptyLabel|left middle temporal	0.9697|0.0303
+LF09	50.9724	83.5151	74.9363	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LF10	45.5847	82.5977	77.3089	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LF11	41.7217	81.7607	79.5512	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LF12	37.3386	81.3829	81.9905	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LG01	82.0387	111.558	54.1719	n/a	left fusiform	1007	left fusiform|EmptyLabel	0.7879|0.2121
+LG02	77.5662	111.006	55.5101	n/a	left fusiform	1007	left fusiform|left inferior temporal|EmptyLabel	0.8182|0.1515|0.0303
+LG03	72.6867	110.115	57.8393	n/a	left inferior temporal	0	EmptyLabel|left inferior temporal	0.8182|0.1818
+LG04	67.706	109.536	59.221	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LG05	63.2335	108.984	60.5592	n/a	left inferior temporal	1009	left inferior temporal|EmptyLabel	0.9394|0.0606
+LG06	58.3541	108.093	62.8884	n/a	left middle temporal	1015	left middle temporal|EmptyLabel	0.5758|0.4242
+LG07	53.3615	108	64.4235	n/a	left middle temporal	0	EmptyLabel|left middle temporal	0.7879|0.2121
+LG08	48.9903	107.136	66.7093	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LG09	44.0095	106.557	68.091	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LG10	39.537	106.004	69.4292	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LG11	35.1539	105.627	71.8685	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LG12	30.1732	105.047	73.2501	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LI01	94.4396	135.667	52.0191	n/a	left entorhinal	1006	left entorhinal	1.0000
+LI02	89.2563	135.71	51.5058	n/a	left entorhinal	1006	left entorhinal|EmptyLabel	0.6970|0.3030
+LI03	84.0848	135.268	50.839	n/a	left inferior temporal	0	EmptyLabel|left inferior temporal|left entorhinal	0.7273|0.1818|0.0909
+LI04	78.292	135.596	49.4215	n/a	left inferior temporal	0	EmptyLabel|left inferior temporal|left middle temporal	0.6970|0.1818|0.1212
+LI05	73.1206	135.153	48.7547	n/a	left middle temporal	0	EmptyLabel|left middle temporal	0.5758|0.4242
+LI06	68.4455	135.224	48.1979	n/a	left middle temporal	1015	left middle temporal|EmptyLabel	0.8788|0.1212
+LI07	63.2622	135.267	47.6846	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LI08	58.5871	135.337	47.1278	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LI09	53.4157	134.895	46.461	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LI10	48.2324	134.938	45.9476	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LI11	43.0491	134.982	45.4343	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LI12	38.2727	135.363	43.93	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LO01	108.28	166.554	81.3949	n/a	left rostral anterior cingulate	1026	left rostral anterior cingulate|EmptyLabel	0.9697|0.0303
+LO02	103.288	166.461	82.93	n/a	left rostral anterior cingulate	1026	left rostral anterior cingulate|EmptyLabel	0.6667|0.3333
+LO03	98.2834	166.853	84.6186	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LO04	93.799	166.787	86.1104	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LO05	89.3028	167.206	87.7556	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LO06	83.9152	166.289	90.1282	n/a	EmptyLabel	0	EmptyLabel|left pars triangularis	0.9697|0.0303
+LO07	78.9226	166.196	91.6633	n/a	left pars triangularis	1020	left pars triangularis|EmptyLabel|left rostral middle frontal	0.5455|0.3636|0.0909
+LO08	74.4382	166.129	93.155	n/a	left pars triangularis	1020	left pars triangularis|EmptyLabel	0.7576|0.2424
+LO09	69.9419	166.549	94.8003	n/a	left pars triangularis	0	EmptyLabel|left pars triangularis	0.6364|0.3636
+LO10	65.0625	165.658	97.1294	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LO11	60.5781	165.592	98.6212	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LO12	55.5737	165.984	100.31	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LQ01	86.6807	149.552	82.4908	n/a	left insula	1035	left insula|EmptyLabel	0.5455|0.4545
+LQ02	81.6763	149.945	84.1795	n/a	left insula	1035	left insula|EmptyLabel	0.6667|0.3333
+LQ03	77.18	150.364	85.8247	n/a	left pars triangularis	1020	left pars triangularis|EmptyLabel|left pars opercularis	0.6667|0.2424|0.0909
+LQ04	72.1756	150.757	87.5133	n/a	left pars opercularis	0	EmptyLabel|left pars opercularis	0.7273|0.2727
+LQ05	72.1756	150.757	87.5133	n/a	left pars opercularis	0	EmptyLabel|left pars opercularis	0.7273|0.2727
+LQ06	68.1876	151.203	89.1151	n/a	left pars triangularis	0	EmptyLabel|left pars triangularis	0.8788|0.1212
+LQ07	62.2561	151.717	91.9915	n/a	left pars triangularis	0	EmptyLabel|left pars triangularis	0.7879|0.2121
+LQ08	58.2799	151.677	93.4399	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LQ09	53.2636	152.556	95.282	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LQ10	49.2874	152.516	96.7303	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LQ11	44.7793	153.421	98.529	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LQ12	42.3396	152.976	99.6936	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LT01	79.5185	137.429	69.9233	n/a	left insula	1035	left insula|EmptyLabel	0.8485|0.1515
+LT02	74.4246	137.647	70.5109	n/a	left superior temporal	0	EmptyLabel|left superior temporal	0.8788|0.1212
+LT03	69.3426	137.379	70.9451	n/a	left superior temporal	1030	left superior temporal|EmptyLabel	0.6364|0.3636
+LT04	63.6392	137.881	70.6286	n/a	left superior temporal	1030	left superior temporal|EmptyLabel	0.9697|0.0303
+LT05	58.5335	138.585	71.3697	n/a	left superior temporal	0	EmptyLabel|left superior temporal	0.9394|0.0606
+LT06	53.9716	137.858	71.607	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LT07	48.2682	138.361	71.2906	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LT08	43.6944	138.12	71.6813	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LU01	79.6073	121.153	78.5342	n/a	left insula	1035	left insula|EmptyLabel	0.9394|0.0606
+LU02	74.6384	120.088	79.7624	n/a	left insula	1035	left insula|EmptyLabel	0.6970|0.3030
+LU03	70.2015	118.077	80.6402	n/a	left superior temporal	1030	left superior temporal|EmptyLabel	0.9697|0.0303
+LU04	65.2089	117.984	82.1753	n/a	left superior temporal	0	EmptyLabel|left superior temporal	0.9091|0.0909
+LU05	60.1269	117.716	82.6095	n/a	left superior temporal	1030	left superior temporal	1.0000
+LU06	55.2712	115.854	84.6317	n/a	left superior temporal	0	EmptyLabel|left superior temporal	0.9091|0.0909
+LU07	50.8106	114.815	85.8165	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LU08	45.8417	113.75	87.0447	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LU09	40.8729	112.685	88.2729	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LU10	37.4168	112.186	89.5243	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LU11	31.9278	111.58	90.9494	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LU12	28.8905	110.934	91.0564	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LY01	106.543	177.978	62.9885	n/a	left medial orbitofrontal	1014	left medial orbitofrontal|EmptyLabel|left lateral orbitofrontal	0.6364|0.3333|0.0303
+LY02	104.892	177.598	67.2592	n/a	left medial orbitofrontal	1014	left medial orbitofrontal|EmptyLabel	0.5152|0.4848
+LY03	102.744	176.704	71.4198	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LY04	100.584	176.297	75.7339	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LY05	98.9329	175.916	80.0045	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LY06	96.8746	175.197	85.2661	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LY07	94.715	174.79	89.5802	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LY08	92.6567	174.071	94.8418	n/a	EmptyLabel	0	EmptyLabel	1.0000
+LY09	91.0054	173.69	99.1124	n/a	left rostral middle frontal	0	EmptyLabel|left rostral middle frontal	0.8788|0.1212
+LY10	88.8458	173.283	103.427	n/a	left rostral middle frontal	0	EmptyLabel|left rostral middle frontal	0.5758|0.4242
+LY11	86.6862	172.876	107.741	n/a	left rostral middle frontal	1027	left rostral middle frontal|EmptyLabel	0.6970|0.3030
+LY12	85.1361	172.184	112.959	n/a	left rostral middle frontal	1027	left rostral middle frontal|EmptyLabel	0.8485|0.1515

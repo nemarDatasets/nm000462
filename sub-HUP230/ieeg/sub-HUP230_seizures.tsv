@@ -1,0 +1,61 @@
+source_table	recording	approximate_onset	offset	EEC	UEO	Other_onset_description	stim	stim_channels	to_annotate	typical	mtl	model	threshold	ueo_chs_strict	ueo_chs_loose	sec_chs_strict	sec_chs_loose
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP230_phaseII	3860.24	3878.4	n/a	n/a	n/a	1	n/a	n/a	n/a	n/a	LSTM	2.1895861148197597	LC01 LC02	LC01 LC02 LC03	LC01 LC02 LM04	LC01 LC02 LC03 LM04 LM05
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP230_phaseII	46351.04	46411.04	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LB01 LB02 LC01 LC02	LB01 LB02 LB03 LC01 LC02 LC03	LB01 LB02 LC01 LC02	LB01 LB02 LB03 LC01 LC02 LC03
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP230_phaseII	72889.74971	72911.47	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LC01 LC02	LC01 LC02 LC03	LC01 LC02	LC01 LC02 LC03
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP230_phaseII	77118.38	77139.06	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LC01 LC02	LC01 LC02 LC03	LC01 LC02	LC01 LC02 LC03
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP230_phaseII	89159.03	89176.49	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LC01 LC02	LC01 LC02 LC03	LC01 LC02	LC01 LC02 LC03
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP230_phaseII	166988.51	167010.09	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LC01 LC02	LC01 LC02 LC03	LC01 LC02	LC01 LC02 LC03
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP230_phaseII	173926.18	173941.18	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LC01	LC01 LC02	LC01	LC01 LC02
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP230_phaseII	176090.48	176108.03	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LC01 LC02	LC01 LC02 LC03	n/a	n/a
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP230_phaseII	190281.54	190300.13	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LC01	LC01 LC02	LC01 LC02	LC01 LC02 LC03
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP230_phaseII	201175.9	201197.95	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LC01 LC02	LC01 LC02 LC03	LC01 LC02	LC01 LC02 LC03
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP230_phaseII	251120.66	251135.4	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LC01	LC01 LC02	LC01	LC01 LC02
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP230_phaseII	257568.67	257583.91	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LC01	LC01 LC02	LC01	LC01 LC02
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP230_phaseII	259434.87	259451.08	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LC01	LC01 LC02	LC01	LC01 LC02
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP230_phaseII	263399.14	263479.07	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LC01	LC01 LC02	LC01	LC01 LC02
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP230_phaseII	263424.05	263479.68	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LC01 LC02	LC01 LC02 LC03	LC01 LC02	LC01 LC02 LC03
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP230_phaseII	270478.99	270496.47	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LC01 LC02	LC01 LC02 LC03	LC01 LC02	LC01 LC02 LC03
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP230_phaseII	270513.06	270552.59	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LC01 LC02	LC01 LC02 LC03	LB01 LC01 LC02	LB01 LB02 LC01 LC02 LC03
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP230_phaseII	272013.6002	272236.08	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LB01 LB02 LC01	LB01 LB02 LB03 LC01 LC02	LB01 LB02 LC01	LB01 LB02 LB03 LC01 LC02
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP230_phaseII	296207.34	296351.21	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LC01	LC01 LC02	LC01 LC02	LC01 LC02 LC03
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP230_phaseII	301826.7945	301955.82	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LC01	LC01 LC02	LA01 LA02 LA03 LA04 LB01 LB02 LB03 LC01 LC02	LA01 LA02 LA03 LA04 LA05 LB01 LB02 LB03 LB04 LC01 LC02 LC03
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP230_phaseII	303222.3395	303348.28	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LB01 LB02 LC01 LC02	LB01 LB02 LB03 LC01 LC02 LC03	LB01 LB02 LC01 LC02	LB01 LB02 LB03 LC01 LC02 LC03
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP230_phaseII	307374.7145	307462.67	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LC01	LC01 LC02	LC01 LC02	LC01 LC02 LC03
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP230_phaseII	348583.18	348660.5	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LC01	LC01 LC02	LA01 LA02 LA03 LA04 LA05 LA06 LA07 LA08 LB01 LB02 LB03 LC01 LC02	LA01 LA02 LA03 LA04 LA05 LA06 LA07 LA08 LA09 LB01 LB02 LB03 LB04 LC01 LC02 LC03
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP230_phaseII	350248.4564	350343.63	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LB01 LB02 LC01 LC02	LB01 LB02 LB03 LC01 LC02 LC03	LB01 LB02 LC01 LC02	LB01 LB02 LB03 LC01 LC02 LC03
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP230_phaseII	357600.56	357658.76	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	n/a	n/a	LC01 LC02	LC01 LC02 LC03
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP230_phaseII	368489.5404	368540.1	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LC01 LC02	LC01 LC02 LC03	LC01	LC01 LC02
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP230_phaseII	371985.4515	372040.8	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LB02 LC01	LB02 LB03 LC01 LC02	LB01 LB02 LC01	LB01 LB02 LB03 LC01 LC02
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP230_phaseII	450152.7056	450222.34	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	n/a	n/a	n/a	n/a
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP230_phaseII	454556.05	454625.6	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LC01	LC01 LC02	LC01	LC01 LC02
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	HUP230_phaseII	459626.4976	459678.25	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LC01	LC01 LC02	LC01	LC01 LC02
+stim_seizure_information_BIDS.csv	HUP230_phaseII	3860.24	3878.4	n/a	n/a	n/a	1	LB5-LB6	1	0	1	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP230_phaseII	46351.04	46411.04	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP230_phaseII	72889.74971	72911.47	72809.85713	72889.74971	72845.69893	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP230_phaseII	77118.38	77139.06	77118.38057	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP230_phaseII	89159.03	89176.49	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP230_phaseII	166988.51	167010.09	n/a	166988.5124	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP230_phaseII	173926.18	173941.18	n/a	173926.7126	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP230_phaseII	176090.48	176108.03	n/a	176091.1422	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP230_phaseII	190281.54	190300.13	n/a	190281.9714	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP230_phaseII	201175.9	201197.95	n/a	201176.0495	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP230_phaseII	251120.66	251135.4	n/a	251120.733	n/a	0	n/a	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP230_phaseII	257568.67	257583.91	n/a	257568.8639	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP230_phaseII	259434.87	259451.08	n/a	259434.9576	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP230_phaseII	263399.14	263479.07	n/a	263399.2994	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP230_phaseII	263424.05	263479.68	n/a	263424.1988	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP230_phaseII	270478.99	270496.47	n/a	270479.1529	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP230_phaseII	270513.06	270552.59	n/a	270513.5357	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP230_phaseII	272013.6002	272236.08	271984.8766	272013.6002	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP230_phaseII	296207.34	296351.21	n/a	296207.3668	n/a	0	n/a	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP230_phaseII	301826.7945	301955.82	301812.3629	301826.7945	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP230_phaseII	303222.3395	303348.28	303199.8043	303222.3395	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP230_phaseII	307374.7145	307462.67	307361.9	307374.7145	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP230_phaseII	348583.18	348660.5	n/a	348583.1752	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP230_phaseII	350248.4564	350343.63	350240.4232	350248.4564	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP230_phaseII	357600.56	357658.76	n/a	357600.5599	357599.2152	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP230_phaseII	368489.5404	368540.1	368478.3959	368489.5404	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP230_phaseII	371985.4515	372040.8	371979.9144	371985.4515	n/a	0	n/a	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP230_phaseII	450152.7056	450222.34	n/a	450152.7056	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP230_phaseII	454556.05	454625.6	n/a	454556.0523	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	HUP230_phaseII	459626.4976	459678.25	n/a	459626.4976	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a

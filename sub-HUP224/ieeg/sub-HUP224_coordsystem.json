@@ -1,0 +1,5 @@
+{
+  "iEEGCoordinateSystem": "Other",
+  "iEEGCoordinateUnits": "n/a",
+  "iEEGCoordinateSystemDescription": "Coordinates copied from the released PROCESSED_DATA/HUP224/electrode_localizations_dkt.pkl (columns x, y, z). The deposit does not state the coordinate space or units; atlas_label is the label given in the source ('dkt' localisation file)."
+}

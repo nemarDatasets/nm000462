@@ -1,0 +1,119 @@
+name	x	y	z	size	atlas_label	atlas_index	labels_sorted	percent_assigned
+RA01	101.917	146.273	111.359	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RA02	106.613	145.897	110.958	n/a	right hippocampus	0	EmptyLabel|right hippocampus|right amygdala	0.5714|0.2857|0.1429
+RA03	111.778	145.485	110.517	n/a	right amygdala	54	right amygdala|right hippocampus	0.7143|0.2857
+RA04	116.943	145.072	110.076	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RA05	121.689	145.126	109.893	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RA06	126.854	144.713	109.452	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RA07	132.07	144.73	109.229	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RA08	136.766	144.355	108.828	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RA09	141.981	144.371	108.605	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RA10	147.185	143.492	109.075	n/a	right middle temporal	2015	right middle temporal	1.0000
+RA11	151.88	143.117	108.674	n/a	right middle temporal	0	EmptyLabel|right middle temporal	0.8571|0.1429
+RA12	157.096	143.133	108.451	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RB01	106.928	134.084	108.349	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RB02	112.081	132.775	108.601	n/a	right hippocampus	53	right hippocampus|EmptyLabel	0.8571|0.1429
+RB03	116.765	131.504	108.894	n/a	right hippocampus	53	right hippocampus|EmptyLabel	0.8571|0.1429
+RB04	121.41	130.7	108.276	n/a	right hippocampus	53	right hippocampus|EmptyLabel	0.8571|0.1429
+RB05	126.513	128.962	108.31	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RB06	131.247	128.121	108.82	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RB07	136.4	126.812	109.073	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RB08	141.084	125.542	109.365	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RB09	146.237	124.233	109.618	n/a	right middle temporal	0	EmptyLabel|right middle temporal	0.7143|0.2857
+RB10	150.972	123.392	110.128	n/a	right middle temporal	2015	right middle temporal	1.0000
+RB11	156.125	122.083	110.38	n/a	right middle temporal	2015	right middle temporal|EmptyLabel	0.7143|0.2857
+RB12	160.859	121.242	110.89	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RC01	107.23	123.017	110.728	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RC02	111.901	120.851	111.714	n/a	right hippocampus	0	EmptyLabel|right hippocampus	0.5714|0.4286
+RC03	116.585	119.58	112.007	n/a	right hippocampus	53	right hippocampus	1.0000
+RC04	121.219	117.88	112.082	n/a	right hippocampus	53	right hippocampus	1.0000
+RC05	125.89	115.714	113.067	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RC06	130.574	114.443	113.36	n/a	right middle temporal	0	EmptyLabel|right middle temporal	0.8571|0.1429
+RC07	135.297	112.706	114.563	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RC08	140.4	110.968	114.598	n/a	right superior temporal	0	EmptyLabel|right superior temporal|right middle temporal	0.5714|0.2857|0.1429
+RC09	144.703	109.698	116.059	n/a	right superior temporal	2030	right superior temporal|EmptyLabel	0.5714|0.4286
+RC10	149.425	107.961	117.262	n/a	right superior temporal	0	EmptyLabel|right superior temporal	0.8571|0.1429
+RC11	154.147	106.223	118.466	n/a	right superior temporal	0	EmptyLabel|right superior temporal	0.8571|0.1429
+RC12	159.351	105.344	118.936	n/a	right superior temporal	0	EmptyLabel|right superior temporal	0.8571|0.1429
+RF01	122.146	115.133	96.8182	n/a	right fusiform	2007	right fusiform	1.0000
+RF02	126.829	113.862	97.1108	n/a	right fusiform	2007	right fusiform|EmptyLabel	0.5714|0.4286
+RF03	131.932	112.124	97.1456	n/a	right fusiform	0	EmptyLabel|right fusiform	0.7143|0.2857
+RF04	136.577	111.32	96.5274	n/a	right inferior temporal	2009	right inferior temporal|EmptyLabel	0.8571|0.1429
+RF05	141.211	109.62	96.6023	n/a	right inferior temporal	2009	right inferior temporal	1.0000
+RF06	145.895	108.349	96.8948	n/a	right inferior temporal	0	EmptyLabel|right inferior temporal	0.8571|0.1429
+RF07	150.998	106.611	96.9297	n/a	right inferior temporal	2009	right inferior temporal	1.0000
+RF08	155.631	104.911	97.0047	n/a	right middle temporal	0	EmptyLabel|right middle temporal	0.7143|0.2857
+RF09	160.784	103.603	97.2571	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RF10	165.468	102.332	97.5496	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RF11	170.19	100.595	98.7529	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RF12	174.773	98.4657	98.6103	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RI01	114.031	165.282	102.133	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RI02	118.866	165.299	103.078	n/a	right inferior temporal	2009	right inferior temporal|EmptyLabel	0.8571|0.1429
+RI03	123.701	165.316	104.024	n/a	right middle temporal	2015	right middle temporal|right inferior temporal|EmptyLabel	0.5714|0.2857|0.1429
+RI04	128.575	164.867	105.88	n/a	right middle temporal	2015	right middle temporal	1.0000
+RI05	133.36	164.454	106.607	n/a	right middle temporal	2015	right middle temporal	1.0000
+RI06	138.195	164.471	107.552	n/a	right middle temporal	2015	right middle temporal|EmptyLabel	0.5714|0.4286
+RI07	143.449	164.021	108.24	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RI08	148.284	164.038	109.185	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RI09	153.119	164.055	110.13	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RI10	158.423	164.035	111.035	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RO01	96.4753	69.4762	93.002	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RO02	101.272	69.9595	93.0364	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RO03	106.487	69.976	92.8131	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RO04	111.284	70.4593	92.8475	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RO05	116.499	70.4759	92.6243	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RO06	121.296	70.9592	92.6586	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RO07	126.511	70.9757	92.4354	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RO08	131.257	71.0297	92.2522	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RO09	136.473	71.0462	92.029	n/a	right lateral occipital	2011	right lateral occipital	1.0000
+RO10	141.739	71.492	92.0233	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RO11	146.485	71.5461	91.8401	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RO12	151.32	71.563	92.7852	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RP01	94.2835	98.6352	126.45	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RP02	99.068	98.2229	127.178	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RP03	104.322	97.7731	127.865	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RP04	109.018	97.3979	127.464	n/a	right lateral ventricle	43	right lateral ventricle|EmptyLabel	0.8571|0.1429
+RP05	114.322	97.3773	128.37	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RP06	119.018	97.0021	127.969	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RP07	123.853	97.019	128.914	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RP08	129.107	96.5692	129.602	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RP09	134.412	96.5487	130.507	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RP10	139.158	96.6027	130.323	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RP11	143.993	96.6197	131.269	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RP12	148.828	96.6366	132.214	n/a	right supramarginal	0	EmptyLabel|right supramarginal	0.8571|0.1429
+RQ01	119.034	150.954	130.265	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RQ02	122.739	151.868	134.022	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RQ03	126.394	152.353	137.561	n/a	right insula	2035	right insula|right pars opercularis|EmptyLabel	0.7143|0.1429|0.1429
+RQ04	130.061	153.733	140.408	n/a	right pars opercularis	2018	right pars opercularis|EmptyLabel	0.8571|0.1429
+RQ05	133.296	154.685	144.205	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RQ06	137.471	155.561	147.922	n/a	right pars opercularis	2018	right pars opercularis|EmptyLabel	0.7143|0.2857
+RQ07	140.617	156.549	150.591	n/a	right pars triangularis	2020	right pars triangularis|EmptyLabel	0.7143|0.2857
+RQ08	144.322	157.463	154.348	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RQ09	147.508	157.985	157.928	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RQ10	151.213	158.899	161.685	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RQ11	154.918	159.813	165.442	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RQ12	158.522	159.868	168.764	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RT01	122.143	148.989	111.851	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RT02	127.359	149.006	111.628	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RT03	132.155	149.489	111.662	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RT04	136.913	150.439	110.786	n/a	right superior temporal	2030	right superior temporal|right middle temporal|EmptyLabel	0.5714|0.2857|0.1429
+RT05	142.179	150.885	110.78	n/a	right middle temporal	2015	right middle temporal|EmptyLabel	0.7143|0.2857
+RT06	146.937	151.834	109.904	n/a	right middle temporal	2015	right middle temporal	1.0000
+RT07	152.152	151.851	109.68	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RT08	156.949	152.334	109.715	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RT09	162.164	152.351	109.492	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RT10	166.922	153.3	108.615	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RT11	162.164	152.351	109.492	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RT12	162.164	152.351	109.492	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RV01	91.8415	59.3113	109.878	n/a	right cuneus	2005	right cuneus|EmptyLabel	0.8571|0.1429
+RV02	96.5371	58.9361	109.477	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RV03	101.842	58.9156	110.382	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RV04	107.096	58.4657	111.07	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RV05	111.791	58.0905	110.669	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RV06	116.626	58.1075	111.614	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RV07	121.881	57.6577	112.302	n/a	right inferior parietal	2008	right inferior parietal|EmptyLabel	0.7143|0.2857
+RV08	126.627	57.7117	112.118	n/a	right inferior parietal	2008	right inferior parietal	1.0000
+RV09	131.931	57.6911	113.023	n/a	right inferior parietal	2008	right inferior parietal|EmptyLabel	0.7143|0.2857
+RV10	136.816	58.1374	114.186	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RV11	141.551	57.2958	114.696	n/a	EmptyLabel	0	EmptyLabel	1.0000
+RV12	146.766	57.3123	114.473	n/a	EmptyLabel	0	EmptyLabel	1.0000

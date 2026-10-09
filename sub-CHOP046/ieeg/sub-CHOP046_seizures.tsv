@@ -1,0 +1,7 @@
+source_table	recording	approximate_onset	offset	EEC	UEO	Other_onset_description	stim	stim_channels	to_annotate	typical	mtl	model	threshold	ueo_chs_strict	ueo_chs_loose	sec_chs_strict	sec_chs_loose
+stim_seizure_information_BIDS.csv	CHOPCCEP_046	12337.81	12386.87	n/a	n/a	n/a	1	LF1-LF2	1	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	CHOPCCEP_046	13691.34	13729.72	n/a	n/a	n/a	1	LE1-LE2	n/a	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	CHOPCCEP_046	16858.82	16901.4	n/a	n/a	n/a	1	LD4-LD5	n/a	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	CHOPCCEP_046	17123.09	17141.09	n/a	n/a	n/a	1	LE4-LE5	1	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	CHOPCCEP_046	17249.23	17278.95	n/a	n/a	n/a	1	LF4-LF5	n/a	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	CHOPCCEP_046	17517.72	17569	n/a	n/a	n/a	1	LE3-LE4	n/a	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a

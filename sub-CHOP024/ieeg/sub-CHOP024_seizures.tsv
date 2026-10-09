@@ -1,0 +1,35 @@
+source_table	recording	approximate_onset	offset	EEC	UEO	Other_onset_description	stim	stim_channels	to_annotate	typical	mtl	model	threshold	ueo_chs_strict	ueo_chs_loose	sec_chs_strict	sec_chs_loose
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	CHOP024	12889.69	12917.11	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	n/a	n/a	LF02	LF02 LF03
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	CHOP024	15949.37	15969.79	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LF04	LF04 LF05	LB01 LJ05 LA03	LA03 LA04 LB01 LB02 LJ05 LJ06
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	CHOP024	23014.73	23037.12	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	n/a	n/a	LJ05 LJ06 LJ07 LJ08	LJ05 LJ06 LJ07 LJ08 LJ09
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	CHOP024	25989.25	26017.8	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	n/a	n/a	LF04	LF04 LF05
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	CHOP024	65466.15	65482.54	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	n/a	n/a	LF03 LF05	LF03 LF04 LF05 LF06
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	CHOPCCEP_024	87579.25	87591.61	n/a	n/a	n/a	1	n/a	n/a	n/a	n/a	LSTM	2.8731642189586113	LF01 LF05 LE09	LE09 LE10 LF01 LF02 LF05 LF06	n/a	n/a
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	CHOPCCEP_024	89820.21	89828.43	n/a	n/a	n/a	1	n/a	n/a	n/a	n/a	LSTM	2.8731642189586113	n/a	n/a	n/a	n/a
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	CHOP024	91961.62	91978.8	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LF02 LF03	LF02 LF03 LF04	LF03 LF04 LF05	LF03 LF04 LF05 LF06
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	CHOP024	117307.53	117351.36	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LF02	LF02 LF03	LC12 LF02	LC12 LC13 LF02 LF03
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	CHOP024	122247.8	122283.8	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LF02 LF03 LF05	LF02 LF03 LF04 LF05 LF06	LC12 LF01 LF02 LF05	LC12 LC13 LF01 LF02 LF03 LF05 LF06
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	CHOP024	123812.85	123841.42	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LF02 LF03 LF05	LF02 LF03 LF04 LF05 LF06	n/a	n/a
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	CHOP024	128130.19	128174.4	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LF02 LF03 LF04	LF02 LF03 LF04 LF05	LF03 LF04	LF03 LF04 LF05
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	CHOP024	131214.63	131271.01	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LF02 LF03 LF04 LF05	LF02 LF03 LF04 LF05 LF06	LF02 LF03	LF02 LF03 LF04
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	CHOP024	144215.65	144393.01	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LF02	LF02 LF03	LF02 LF03 LF04	LF02 LF03 LF04 LF05
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	CHOP024	165058.22	165083.09	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LC05 LF01 LF05 LE01 LE02 LE04 LE05 LE10	LC05 LC06 LE01 LE02 LE03 LE04 LE05 LE06 LE10 LE11 LF01 LF02 LF05 LF06	n/a	n/a
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	CHOP024	175520.91	175567.38	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LF01 LF02	LF01 LF02 LF03	LF01 LF02 LF04 LF05	LF01 LF02 LF03 LF04 LF05 LF06
+optimized_predicted_channels_LSTM_tuned_thresholds_v4 (model annotations)	CHOP024	210450.06	210458.39	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	LSTM	1.6322369219565476	LB01 LF02	LB01 LB02 LF02 LF03	n/a	n/a
+stim_seizure_information_BIDS.csv	CHOP024	12889.69	12917.11	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	CHOP024	15949.37	15969.79	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	CHOP024	23014.73	23037.12	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	CHOP024	25989.25	26017.8	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	CHOP024	65466.15	65482.54	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	CHOPCCEP_024	87579.25	87591.61	n/a	n/a	n/a	1	LF3-LF4	1	1	0	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	CHOPCCEP_024	89820.21	89828.43	n/a	n/a	n/a	1	LF3-LF4	n/a	1	0	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	CHOP024	91961.62	91978.8	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	CHOP024	117307.53	117351.36	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	CHOP024	122247.8	122283.8	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	CHOP024	123812.85	123841.42	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	CHOP024	128130.19	128174.4	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	CHOP024	131214.63	131271.01	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	CHOP024	144215.65	144393.01	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	CHOP024	165058.22	165083.09	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	CHOP024	175520.91	175567.38	n/a	n/a	n/a	0	n/a	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+stim_seizure_information_BIDS.csv	CHOP024	210450.06	210458.39	n/a	n/a	n/a	0	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a

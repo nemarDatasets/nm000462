@@ -1,0 +1,14 @@
+{
+  "atlas_label": {
+    "Description": "Anatomical label of the contact as given in the source localisation file ('label' column)"
+  },
+  "atlas_index": {
+    "Description": "'index' column of the source dkt localisation file (atlas label index)"
+  },
+  "labels_sorted": {
+    "Description": "'labels_sorted' column of the source: candidate labels around the contact, '|'-separated"
+  },
+  "percent_assigned": {
+    "Description": "'percent_assigned' column of the source: fraction of the contact neighbourhood assigned to each label in labels_sorted, '|'-separated"
+  }
+}

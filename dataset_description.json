@@ -1,0 +1,40 @@
+{
+  "Name": "stim-seizures (Ojemann et al.; HUP + CHOP): seizure annotations, electrode localisations and preprocessed SEEG seizure traces (derivative)",
+  "BIDSVersion": "1.10.0",
+  "DatasetType": "derivative",
+  "License": "CC-BY-NC-SA-4.0",
+  "Authors": [
+    "William K. Ojemann",
+    "Brian Litt",
+    "Erin Conrad"
+  ],
+  "Acknowledgements": "Original release on Pennsieve Discover (dataset 455 version 1, Penn CNT). Manuscript authors: William K.S. Ojemann, Caren Armstrong, Akash Pattnaik, Nina Petillo, Mariam Josyula, Alexander Daum, Daniel J. Zhou, Joshua LaRocque, Jacob Korzun, Catherine V. Kulick-Soper, Eli J. Cornblath, Sarita Damaraju, Russell T. Shinohara, Eric D. Marsh, Kathryn A. Davis, Brian Litt, Erin C. Conrad.",
+  "HowToAcknowledge": "Cite the source dataset (Ojemann WK, Litt B, Conrad EC. stim-seizures. Pennsieve 2025, doi:10.26275/toip-zio0) and the preprint (Ojemann et al., medRxiv 2025, doi:10.1101/2025.08.29.25334082).",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.26275/toip-zio0",
+    "https://discover.pennsieve.io/datasets/455/version/1",
+    "https://doi.org/10.1101/2025.08.29.25334082",
+    "https://github.com/penn-cnt/stim-seizures-manuscript"
+  ],
+  "EthicsApprovals": [
+    "The Institutional Review Boards (IRBs) of the Hospital of the University of Pennsylvania (HUP) and the Children's Hospital of Philadelphia (CHOP) approved retrospective analysis of EEG and clinical data for all patients. Stimulation was performed under IRB-approved research by the IRB at each institution (14 HUP patients; all CHOP patients) or clinical protocols (HUP, N = 41). [verbatim, Ojemann et al., medRxiv doi:10.1101/2025.08.29.25334082, Author Declarations, versions 1 and 2]"
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "stim-seizures-manuscript",
+      "Description": "Authors' processing (seizure annotation, LSTM seizure-mapping model, electrode localisation, preprocessing) that produced the released files",
+      "CodeURL": "https://github.com/penn-cnt/stim-seizures-manuscript"
+    },
+    {
+      "Name": "b3pen NEMAR repackaging",
+      "Description": "BIDS repackaging for NEMAR (iEEG campaign 2026-10): released files kept under sourcedata/, seizure traces to BrainVision float32, electrode localisations to electrodes.tsv, per-subject seizure tables, participants.tsv from the released metadata. No values recomputed."
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "DOI": "doi:10.26275/toip-zio0",
+      "URL": "https://discover.pennsieve.io/datasets/455/version/1",
+      "Version": "1"
+    }
+  ]
+}

@@ -1,0 +1,911 @@
+{
+  "pennsieveDatasetId" : 455,
+  "version" : 1,
+  "name" : "stim-seizures",
+  "description" : "Quantitative analysis of stimulation induced and spontaneous seizure networks",
+  "creator" : {
+    "first_name" : "William",
+    "last_name" : "Ojemann",
+    "orcid" : "0009-0007-5166-536X"
+  },
+  "contributors" : [
+    {
+      "first_name" : "William",
+      "last_name" : "Ojemann",
+      "orcid" : "0009-0007-5166-536X",
+      "middle_initial" : "K",
+      "degree" : "B.S."
+    },
+    {
+      "first_name" : "Brian",
+      "last_name" : "Litt",
+      "orcid" : "0000-0003-2732-6927"
+    },
+    {
+      "first_name" : "Erin",
+      "last_name" : "Conrad",
+      "degree" : "M.D."
+    }
+  ],
+  "sourceOrganization" : "Penn CNT",
+  "keywords" : [
+    "epilepsy",
+    "seizures",
+    "stimulation",
+    "surgery"
+  ],
+  "datePublished" : "2025-09-05",
+  "license" : "Creative Commons Attribution - NonCommercial-ShareAlike",
+  "@id" : "https://doi.org/10.26275/toip-zio0",
+  "publisher" : "The University of Pennsylvania",
+  "@context" : "http://schema.org/",
+  "@type" : "Dataset",
+  "schemaVersion" : "http://schema.org/version/3.7/",
+  "collections" : [
+  ],
+  "relatedPublications" : [
+  ],
+  "files" : [
+    {
+      "name" : "CHOP_metadata.csv",
+      "path" : "files/METADATA/CHOP_metadata.csv",
+      "size" : 2656,
+      "fileType" : "CSV",
+      "sourcePackageId" : "N:package:2df7b507-c76e-43fe-b2fc-7848ca2a6581",
+      "s3VersionId" : "2eYB0.84HmzKNf61xmEjfgZjY_VwwdE8",
+      "sha256" : "nUAEZXY7PgC4KhkKss3cDIDiwPE/Rce2/unLZjol43E=-1"
+    },
+    {
+      "name" : "banner.jpg",
+      "path" : "banner.jpg",
+      "size" : 1527666,
+      "fileType" : "JPEG",
+      "s3VersionId" : "_sp75WnZRm0AFfb6.O.xPSr7pf9jhVAT"
+    },
+    {
+      "name" : "changelog.md",
+      "path" : "changelog.md",
+      "size" : 24,
+      "fileType" : "Markdown",
+      "s3VersionId" : "k6TM57WRg4rPkWA05QAqBQlcl193SR.p"
+    },
+    {
+      "name" : "electrode_localizations_CHOPR.pkl",
+      "path" : "files/PROCESSED_DATA/CHOP045/electrode_localizations_CHOPR.pkl",
+      "size" : 4818,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:3f1f0b76-cb6d-4b22-b4d2-9abdb8d207aa",
+      "s3VersionId" : "rVEFYSCQHymfBTAkZc9JXFXUdR3KbDlY",
+      "sha256" : "k8sIuaQJXekq3vkJlC/aoXl0CIZuAfCxN/jOeBbnccI=-1"
+    },
+    {
+      "name" : "electrode_localizations_CHOPR.pkl",
+      "path" : "files/PROCESSED_DATA/CHOP005/electrode_localizations_CHOPR.pkl",
+      "size" : 9101,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:34fce32b-0747-4d18-9f9e-050d8ec23535",
+      "s3VersionId" : "UOUouT74P_traMQKQJABh55K6pHgi53j",
+      "sha256" : "y4fLfr7fpsaNaJFYJfsVZQ7KHLTtCMLyDVcmChWFNrs=-1"
+    },
+    {
+      "name" : "electrode_localizations_CHOPR.pkl",
+      "path" : "files/PROCESSED_DATA/CHOP035/electrode_localizations_CHOPR.pkl",
+      "size" : 10580,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:d290c26f-ff3c-4294-8e15-23a6d3e06f87",
+      "s3VersionId" : "7UeKCUtIpcAJYyvCJzjKEkuPKHruJ.1D",
+      "sha256" : "KGT1e26Bdm3S/hSw35RxgVuhO+IR3v2B97knswLJPwg=-1"
+    },
+    {
+      "name" : "electrode_localizations_CHOPR.pkl",
+      "path" : "files/PROCESSED_DATA/CHOP044/electrode_localizations_CHOPR.pkl",
+      "size" : 8546,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:5f634bee-9efe-4ffa-a4f6-3035f847e8fc",
+      "s3VersionId" : "wsZptlu5H4oJsevtydRYEJowP9JaYMxk",
+      "sha256" : "FVNnGFvQcB3Ay4nw5VZOvLweV5fQDFRnj4N5EW2PQBk=-1"
+    },
+    {
+      "name" : "electrode_localizations_CHOPR.pkl",
+      "path" : "files/PROCESSED_DATA/CHOP024/electrode_localizations_CHOPR.pkl",
+      "size" : 6154,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:ff182c69-05fb-49b5-9e05-6c78996fa9c0",
+      "s3VersionId" : "ktbBd6zkkcmAIhDhpAJysUuAhu1HZrNf",
+      "sha256" : "OwmYT4M4Q/3qHDzFmbuo0GkoEMrnKjT8kUVNRAY6Crw=-1"
+    },
+    {
+      "name" : "electrode_localizations_CHOPR.pkl",
+      "path" : "files/PROCESSED_DATA/CHOP041/electrode_localizations_CHOPR.pkl",
+      "size" : 9884,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:0d9584e0-2d5a-46e9-a214-faedc27886a6",
+      "s3VersionId" : "k188nAaAfwchY8MFZUNXoLyk8z4yvsW4",
+      "sha256" : "9YXCDUN24TcNyoevxZ5JVWOMWjI2nv7oBaR7TCT5qcM=-1"
+    },
+    {
+      "name" : "electrode_localizations_CHOPR.pkl",
+      "path" : "files/PROCESSED_DATA/CHOP049/electrode_localizations_CHOPR.pkl",
+      "size" : 8718,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:e740c75f-8515-4b78-838a-f83ac1c1212f",
+      "s3VersionId" : "Nypk48qIaCPH00Y.C.Mid41AMQ0R2q6n",
+      "sha256" : "gCMMMwVAsmSwgE8HtWMZnww/C3ulcXEobF6Zq/YcPfA=-1"
+    },
+    {
+      "name" : "electrode_localizations_CHOPR.pkl",
+      "path" : "files/PROCESSED_DATA/CHOP010/electrode_localizations_CHOPR.pkl",
+      "size" : 6782,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:5e33702c-33b6-4214-a402-a42be66d8fdc",
+      "s3VersionId" : "Z0kzU_4rOEnIA1uD01tYzJWwWY.acVCi",
+      "sha256" : "LBlGfIJld4WEeZhd9+Ig1zcascZCpMbcPz3mHAGDRCQ=-1"
+    },
+    {
+      "name" : "electrode_localizations_CHOPR.pkl",
+      "path" : "files/PROCESSED_DATA/CHOP015/electrode_localizations_CHOPR.pkl",
+      "size" : 6411,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:46b364bf-40ee-4793-93fd-f28e407a3c28",
+      "s3VersionId" : "mns817bCjUE8pSOTw1dS.aDnANsgM6gA",
+      "sha256" : "4ob/oEfAGnT37SyEUiRYtVRoCBeEu2sZuNwL1rqfWAo=-1"
+    },
+    {
+      "name" : "electrode_localizations_CHOPR.pkl",
+      "path" : "files/PROCESSED_DATA/CHOP026/electrode_localizations_CHOPR.pkl",
+      "size" : 10288,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:8bd54165-a23f-474b-b248-4c7849c25a7d",
+      "s3VersionId" : "RUF7ZoFM2RMIesK0Uk4uVTsaHlYPMXDE",
+      "sha256" : "3g4MWLMqypUDkDPvmX5O2kMaUOxnQH4xsXkMEpiu5Lw=-1"
+    },
+    {
+      "name" : "electrode_localizations_CHOPR.pkl",
+      "path" : "files/PROCESSED_DATA/CHOP037/electrode_localizations_CHOPR.pkl",
+      "size" : 10581,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:22fdb062-f0da-456a-aa41-cedeca664a78",
+      "s3VersionId" : "q.W2O0M4jPIC60OqUZuFiBMus7fCBMHK",
+      "sha256" : "8V9T+8AMPEJpu6GbA5MlQFpB7X1AzpS5N027kWHneTY=-1"
+    },
+    {
+      "name" : "electrode_localizations_CHOPR.pkl",
+      "path" : "files/PROCESSED_DATA/CHOP028/electrode_localizations_CHOPR.pkl",
+      "size" : 7664,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:f07885e5-23f1-4b8c-9c4b-181f580aba2e",
+      "s3VersionId" : "sgjk7tuS1Id9VE_cHIGIY2Vj3KXN6.Zk",
+      "sha256" : "xNgwUcNg9A1fAiFwRzVkuS+9IlQxEYHJLTXsPPw1K3g=-1"
+    },
+    {
+      "name" : "electrode_localizations_dkt.pkl",
+      "path" : "files/PROCESSED_DATA/HUP235/electrode_localizations_dkt.pkl",
+      "size" : 9466,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:e84a9f69-172b-41d0-9f2a-e04b28833bae",
+      "s3VersionId" : "IoUW1z54oMTh1DF5RESAC8t6SG9lkD9a",
+      "sha256" : "kCGuQAHwrdmsJGxWUR1MESa17cJWgNA75r/Hu1MGIzY=-1"
+    },
+    {
+      "name" : "electrode_localizations_dkt.pkl",
+      "path" : "files/PROCESSED_DATA/HUP229/electrode_localizations_dkt.pkl",
+      "size" : 12902,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:7f9b8aa7-57e1-42d5-ae3a-e785c581ae55",
+      "s3VersionId" : "BUfZA57DtQZ0RynttShUdWQeM2cnKIAV",
+      "sha256" : "mimQIfL4Tot4c8QdVT8I2xrhL+uMjnWDezqO0YziewY=-1"
+    },
+    {
+      "name" : "electrode_localizations_dkt.pkl",
+      "path" : "files/PROCESSED_DATA/HUP261/electrode_localizations_dkt.pkl",
+      "size" : 10909,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:8c134668-a0f9-4c11-aaaa-d34b9fc263f7",
+      "s3VersionId" : "CZeUMbqB9w04sDjUHA7bac3X4MhLJtiB",
+      "sha256" : "+piPJntUaiMmI4ZnnXfIk+fVPlAxgpz6vGWwHkco54s=-1"
+    },
+    {
+      "name" : "electrode_localizations_dkt.pkl",
+      "path" : "files/PROCESSED_DATA/HUP273/electrode_localizations_dkt.pkl",
+      "size" : 17665,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:0bfa3834-be2b-44f2-bc16-9fddeee5359e",
+      "s3VersionId" : "ikg9f39PsiIdDdBhA44dxzGn.PRf3GDl",
+      "sha256" : "/VdXOqc11RXutb0ngpPLtbdgV+a9POTqy9nyBGj2lNw=-1"
+    },
+    {
+      "name" : "electrode_localizations_dkt.pkl",
+      "path" : "files/PROCESSED_DATA/HUP288/electrode_localizations_dkt.pkl",
+      "size" : 13993,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:6b576bfb-689b-450e-a993-796f0d824905",
+      "s3VersionId" : "rn4C_h.Ub4.PrkXsBEbb.EOso62Qmdh3",
+      "sha256" : "yCwe+8/BnPswXbSfA7ePLxH39TkSoi4HqZ9tBvaqUc4=-1"
+    },
+    {
+      "name" : "electrode_localizations_dkt.pkl",
+      "path" : "files/PROCESSED_DATA/HUP267/electrode_localizations_dkt.pkl",
+      "size" : 15485,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:8011e8f1-9c85-439c-82d3-97f1f7ec5788",
+      "s3VersionId" : "PNDDKKRAcO36MedhjXXOKp4bOROytp4R",
+      "sha256" : "eOYeyrFq13H4l/3rNt5auvQTBqNjiTELVyBZi+uZ0mM=-1"
+    },
+    {
+      "name" : "electrode_localizations_dkt.pkl",
+      "path" : "files/PROCESSED_DATA/HUP249/electrode_localizations_dkt.pkl",
+      "size" : 17240,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:d05bf037-7fea-482f-932a-af3f701b574f",
+      "s3VersionId" : "37LY_RwPsXOdYM_vt4MZIomqbcf2HJPH",
+      "sha256" : "a7Z6IQKCHosh+xdyrP7BxxDvKlf/ulU15tTAf1nOuZI=-1"
+    },
+    {
+      "name" : "electrode_localizations_dkt.pkl",
+      "path" : "files/PROCESSED_DATA/HUP230/electrode_localizations_dkt.pkl",
+      "size" : 10728,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:4d14cd96-be60-42de-a067-ec87cfe993b5",
+      "s3VersionId" : "pH7LGvSrPbC6pFeozsHOExCD4odIlFyY",
+      "sha256" : "f0g20SkZdLmJaHlaZgBPSBt+2RSIAj0jyDxP1HaI8aY=-1"
+    },
+    {
+      "name" : "electrode_localizations_dkt.pkl",
+      "path" : "files/PROCESSED_DATA/HUP257/electrode_localizations_dkt.pkl",
+      "size" : 11818,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:fcbafbfe-46ea-462f-9b36-63d0bd68c6e8",
+      "s3VersionId" : "39Rj2P.NwILqVMsOfrJ7SXgx2IRnjg6a",
+      "sha256" : "JzzEKSQ4ZwlHknhf5G71IHNdJoVn3/2wtfq7ILzILeI=-1"
+    },
+    {
+      "name" : "electrode_localizations_dkt.pkl",
+      "path" : "files/PROCESSED_DATA/HUP275/electrode_localizations_dkt.pkl",
+      "size" : 14166,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:d7dd2869-ab89-4689-a076-82f3c01ef90a",
+      "s3VersionId" : "8gydrmkHE5oZJtSRpU0HnNwhGgvpLWsc",
+      "sha256" : "r/cvdMNgLm/aYzr6QRzxnvGk65hUMrREAk5PBXy6vPE=-1"
+    },
+    {
+      "name" : "electrode_localizations_dkt.pkl",
+      "path" : "files/PROCESSED_DATA/HUP250/electrode_localizations_dkt.pkl",
+      "size" : 16930,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:16acddb5-7cbc-40e2-9ad0-53c8cb379a15",
+      "s3VersionId" : "WP1OyrPoIFwRAMWRApZwDL8G5dtg0arH",
+      "sha256" : "bM/EgLAQrc/cCCCZWyV7te0/0wln6t6NUns/Wx1e9Ug=-1"
+    },
+    {
+      "name" : "electrode_localizations_dkt.pkl",
+      "path" : "files/PROCESSED_DATA/HUP224/electrode_localizations_dkt.pkl",
+      "size" : 21626,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:337a1659-a729-41ff-8b05-9ab16e4a5d4d",
+      "s3VersionId" : "3wNJlwHuBufSEqUGY8UF6Sg7Ez3B7v8d",
+      "sha256" : "JgEzpaMesdJbmX66+5Lb6essOE5mjzrrugY7s5w/4rU=-1"
+    },
+    {
+      "name" : "electrode_localizations_dkt.pkl",
+      "path" : "files/PROCESSED_DATA/HUP238/electrode_localizations_dkt.pkl",
+      "size" : 13771,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:96819f6a-ce49-4ab7-b0ec-d1771158facb",
+      "s3VersionId" : "ocqGA9jDeQY044MDOOAWSAyWTerg3G8r",
+      "sha256" : "4sczWdjoP4lKK4YRglCW5Pplwe3n3KqACP10EOS/4NI=-1"
+    },
+    {
+      "name" : "electrode_localizations_dkt.pkl",
+      "path" : "files/PROCESSED_DATA/HUP225/electrode_localizations_dkt.pkl",
+      "size" : 16026,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:16b82f6e-160d-4578-8daa-fe64d84a7f54",
+      "s3VersionId" : "WuUIDtHCT3Mc51G2JYgm_7VaUiVpWR4A",
+      "sha256" : "gO62iO7MAipTr/56vG+n2h+qmi4pp/62zGYqCBjyxrM=-1"
+    },
+    {
+      "name" : "electrode_localizations_dkt.pkl",
+      "path" : "files/PROCESSED_DATA/HUP247/electrode_localizations_dkt.pkl",
+      "size" : 6053,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:a775e545-bad8-4fc9-b297-88569f56469e",
+      "s3VersionId" : "z0NjVUtBNtsJ8dnytH58TU22AsNtFaSL",
+      "sha256" : "fHzhaBeM4QXCTS8sl6h+38CsO5H9bgsahmIgZa1XomE=-1"
+    },
+    {
+      "name" : "electrode_localizations_dkt.pkl",
+      "path" : "files/PROCESSED_DATA/HUP263/electrode_localizations_dkt.pkl",
+      "size" : 11904,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:f0c890a3-1a69-41b3-8adc-76b1de7621b0",
+      "s3VersionId" : "tNh2zCN4dydrFZlW9h89cixAYIh7Vc9G",
+      "sha256" : "bXso0H0kBOq6zP8iGvrqET3/h0fmJz2MFSwWcz4GG+o=-1"
+    },
+    {
+      "name" : "electrode_localizations_dkt.pkl",
+      "path" : "files/PROCESSED_DATA/HUP266/electrode_localizations_dkt.pkl",
+      "size" : 11279,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:6896ef10-3ae6-41e0-ab18-c9c5db7dc87c",
+      "s3VersionId" : "T.YFovvXv9dCpGMsBU8eEEEoNw_tI7vD",
+      "sha256" : "l2ZzHVC50DsC3w7Zt7WN5prUGguO5n5POV6K5QG9LZI=-1"
+    },
+    {
+      "name" : "electrode_localizations_dkt.pkl",
+      "path" : "files/PROCESSED_DATA/HUP253/electrode_localizations_dkt.pkl",
+      "size" : 10681,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:cbf3f5d5-f6fd-4212-b3b2-32b18efd192b",
+      "s3VersionId" : "yE7te7FvjxfzsTxZgShMHd8FHStRmN9z",
+      "sha256" : "UrG/6xGo91BXtAWXNd4MhamsqUpwbLAO6Gp/dvdqDyw=-1"
+    },
+    {
+      "name" : "electrode_localizations_dkt.pkl",
+      "path" : "files/PROCESSED_DATA/HUP246/electrode_localizations_dkt.pkl",
+      "size" : 11530,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:ed228040-da42-43f4-9865-3d91efbe9ce1",
+      "s3VersionId" : "TFW9ckF_lqB8Sk.5qCe2MuxlElb7F_hE",
+      "sha256" : "1Av+d13O48KQXZ2+U+u+8PqcLNI9sFdYUq39uMbVh8c=-1"
+    },
+    {
+      "name" : "figure_1_C.pdf",
+      "path" : "files/figures/figure_1_C.pdf",
+      "size" : 15109,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:d4bc0fe9-0ff9-461d-8242-751698f4909a",
+      "s3VersionId" : "YAUEDuly2XLd.ZFYnJnrm5yINVutWfSy",
+      "sha256" : "n6wI18BWqRD2jUawU/nFDxJERpKNyNRqF7bxcNi2OZI=-1"
+    },
+    {
+      "name" : "figure_1_D.pdf",
+      "path" : "files/figures/figure_1_D.pdf",
+      "size" : 998121,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:d26a3684-3d25-4eb9-bf33-dcda4214f4b4",
+      "s3VersionId" : "91_yH6L1O7Ewi_VhTnzFVuTc4QgT.rzV",
+      "sha256" : "AIsm9Xwl8nWDxfhnJa6ZuQPgcZO7PSEReiwQdji70eU=-1"
+    },
+    {
+      "name" : "figure_1_E.pdf",
+      "path" : "files/figures/figure_1_E.pdf",
+      "size" : 917794,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:9f979575-34ac-4861-8292-61346fd385ba",
+      "s3VersionId" : "ZOGXAtQeYqFYms_shKXpP25Idy58FWpz",
+      "sha256" : "I4TLlPTZPSHM7Ivve9blokwbz5B6qtR9c42sohPysK4=-1"
+    },
+    {
+      "name" : "figure_2_A.pdf",
+      "path" : "files/figures/figure_2_A.pdf",
+      "size" : 2354768,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:b222d4cd-1107-42e1-83bd-aa2f56c05b01",
+      "s3VersionId" : "mGaPiWmiyorfxHhGgwhpHXUCWE7Prd5Q",
+      "sha256" : "r29MSxocZrLA5CqxachEqTHYsssetYUrcEoyed7Yl9o=-1"
+    },
+    {
+      "name" : "figure_2_B.pdf",
+      "path" : "files/figures/figure_2_B.pdf",
+      "size" : 72088,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:a1abcc31-6362-4ff7-8706-4bd8fff584d3",
+      "s3VersionId" : "vIp86dR3c61qIos33sWRvDq_znlOZfjN",
+      "sha256" : "vk17r9BUgagLRH4D9dqzzQrJYbI1icXqP/qWX6Lp0p0=-1"
+    },
+    {
+      "name" : "figure_2_Bi.pdf",
+      "path" : "files/figures/figure_2_Bi.pdf",
+      "size" : 586195,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:e560750f-7125-473a-a740-00fb51afef51",
+      "s3VersionId" : "e1YpJ9ZtNOsunh2TyeMA1OLkWCUPp3Zz",
+      "sha256" : "LCHhw9dou30fjbv5v9iJyVZ60QKHrV1MBjGTPvdWDlk=-1"
+    },
+    {
+      "name" : "figure_2_Bii.pdf",
+      "path" : "files/figures/figure_2_Bii.pdf",
+      "size" : 15050,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:11c662b6-6000-4206-b05b-fe33febb864a",
+      "s3VersionId" : "FbBtHeOAzzHTwX5N7vahJk4updPRYvze",
+      "sha256" : "TW6iKEG3EQ7G5FaygE8xEpcHnTQfwTVZ/5LTcbvT/3E=-1"
+    },
+    {
+      "name" : "figure_2_Biii.pdf",
+      "path" : "files/figures/figure_2_Biii.pdf",
+      "size" : 2130,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:4424d299-8ab4-483f-8f65-2224b1e0d756",
+      "s3VersionId" : "LvRHE_4DSJ.lw2_f66u_epIBp.UJLCk6",
+      "sha256" : "+hl/TFL95JS3dbNYRrhwVvHeUy6WicuFK5HPTL5uYe0=-1"
+    },
+    {
+      "name" : "figure_2_C.pdf",
+      "path" : "files/figures/figure_2_C.pdf",
+      "size" : 15109,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:7d6a5b88-b4d6-418d-ae4e-3fcae2712f4c",
+      "s3VersionId" : "q.k0NJYtcRQqtwklR8uy6tGq7grvEA8l",
+      "sha256" : "OywGMXbllpBXnBlGUHugP4um7dYABYz6k3kyQk3ZU7c=-1"
+    },
+    {
+      "name" : "figure_2_D.pdf",
+      "path" : "files/figures/figure_2_D.pdf",
+      "size" : 21819,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:2b85e660-e122-44c8-86bf-5bdf715c812b",
+      "s3VersionId" : "WCNcgofI8A6fvAubOlWRZQ1uhAmAHI7q",
+      "sha256" : "h94cFcNJplcQvEilHyAC1FVXK7B5FUdZ9/epG3rVUSs=-1"
+    },
+    {
+      "name" : "figure_2_E.pdf",
+      "path" : "files/figures/figure_2_E.pdf",
+      "size" : 14988,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:5abf2ec4-80b6-4654-a9c2-5c274bbf516d",
+      "s3VersionId" : "sAZqBZrGIwOnYmoA76QWdVkuj_rvNypD",
+      "sha256" : "gDVPkZvjsOoY2yZOIV7CL/y1RotJHKLDBZkPzpCwT9o=-1"
+    },
+    {
+      "name" : "figure_3_A.pdf",
+      "path" : "files/figures/figure_3_A.pdf",
+      "size" : 2986203,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:0c4361e9-aaf1-48c1-8a4f-c4b1e66c31e4",
+      "s3VersionId" : "eTkE6O0cQL2yDEq15s43aDokBefwyfws",
+      "sha256" : "ZNKMLPaoxj4pto82OOmn/dDEK3MhzuGbjA6zYWc9Q60=-1"
+    },
+    {
+      "name" : "figure_3_B.pdf",
+      "path" : "files/figures/figure_3_B.pdf",
+      "size" : 14885,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:f1e0d7d7-304a-46de-8878-fe939567b89b",
+      "s3VersionId" : "XFELeR..X5j98uxxASfbMpUPA7bpg181",
+      "sha256" : "FigmonkoFXUowWNDTgqsz4DZXwp7nCuLTEQg0FqQw9A=-1"
+    },
+    {
+      "name" : "figure_3_C.pdf",
+      "path" : "files/figures/figure_3_C.pdf",
+      "size" : 14317,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:c883895e-0b72-4c94-a3f2-743daf4a1454",
+      "s3VersionId" : "lbHlJqmjzTbfKFkbW_dbFWMrC2tXEkR3",
+      "sha256" : "2layF7hzEIgm814brgt7Yy0h72CSfd8q9YL7ONwABwc=-1"
+    },
+    {
+      "name" : "figure_3_D.pdf",
+      "path" : "files/figures/figure_3_D.pdf",
+      "size" : 14973,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:3c71958c-e923-400d-9d35-e1799b142b3e",
+      "s3VersionId" : "ooGU7AS2WMltEG.E8CunSGAIH_ruQJR7",
+      "sha256" : "PTKI6bxp2tJngX8nVDuqai3ENogOAIXqcenA5kZdBy0=-1"
+    },
+    {
+      "name" : "figure_4_A.pdf",
+      "path" : "files/figures/figure_4_A.pdf",
+      "size" : 3406,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:ba01d528-4a8f-422b-ab74-03607241b97d",
+      "s3VersionId" : "JncKBdU_X1PdYwZOamOnjUeStWrcJ.X1",
+      "sha256" : "RHWnJoKyDiUqLM9n2Ef62FqcmJuM9FAvXK8y6D1lpnQ=-1"
+    },
+    {
+      "name" : "figure_4_B.pdf",
+      "path" : "files/figures/figure_4_B.pdf",
+      "size" : 16230,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:ad004f49-f830-4fa0-a86f-612d2f913680",
+      "s3VersionId" : "hFOiZBhUAd27xzGEUNJH7Ni4D9Sc6hMf",
+      "sha256" : "9zzw4jW98z8xBAXA04rLuxCI86KZJLV5iNkFt6drGwQ=-1"
+    },
+    {
+      "name" : "figure_4_C.pdf",
+      "path" : "files/figures/figure_4_C.pdf",
+      "size" : 16217,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:872acf05-9503-4cdd-89f8-15c31b4c815c",
+      "s3VersionId" : "UsE2DeHeLlt5Yv3nr5Ay14u6XXK7peob",
+      "sha256" : "VbZnDNY59G5Jd4ZKZTmW8LecrhUMvMMcNaTHNSqCfNc=-1"
+    },
+    {
+      "name" : "figure_5_Ai.pdf",
+      "path" : "files/figures/figure_5_Ai.pdf",
+      "size" : 15761,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:0513a0da-3588-47c3-8fd2-9cadfacf9f58",
+      "s3VersionId" : "sWsiGMo9ufcyzjq3YjOxlPjsW78e809S",
+      "sha256" : "Ob0VX9kCMPzffiGewWnlCw6Bifgm70f1RcsCCn8cnrI=-1"
+    },
+    {
+      "name" : "figure_5_Aii.pdf",
+      "path" : "files/figures/figure_5_Aii.pdf",
+      "size" : 15820,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:452f9c9c-ea4b-4640-ad56-30709162419a",
+      "s3VersionId" : "c_OwQPEOhqWBuKiX069asfCIvHidKSoD",
+      "sha256" : "hwaQnsuQiHXG4Y33JPN/EyugRAuhWOvj0JOsVlGAC7s=-1"
+    },
+    {
+      "name" : "figure_5_B.pdf",
+      "path" : "files/figures/figure_5_B.pdf",
+      "size" : 15619,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:f2dc2613-8fc9-4c30-9f64-ecdf3175542d",
+      "s3VersionId" : "UZ0O3vaByLgwVSRZ_0a6.Ap3xlMaiwlP",
+      "sha256" : "k0vZcCkvIzEj02tMdVuXXwkMAcVzr0BarsbAqCJ+ECg=-1"
+    },
+    {
+      "name" : "figure_5_C.pdf",
+      "path" : "files/figures/figure_5_C.pdf",
+      "size" : 15768,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:84cba5d4-350f-424a-b45f-a4def83f8c61",
+      "s3VersionId" : "T9dAnRUWaSJ6HW.ydNnKcxNLz6vkURrF",
+      "sha256" : "N5cFxQYkC/EgYOpIXRCuMZrTg2ytRtnaitOhPMCHy38=-1"
+    },
+    {
+      "name" : "figure_6_Ai.pdf",
+      "path" : "files/figures/figure_6_Ai.pdf",
+      "size" : 279024,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:5194ff81-8b19-45b2-80e0-e31882764327",
+      "s3VersionId" : "wbk86e6dIxacHqTJUeqsRVhBXmnKKPRy",
+      "sha256" : "+SZI0Jh/zAIGUTVzbvxnN+Jd+E56I17xHJ6hPFh1krM=-1"
+    },
+    {
+      "name" : "figure_6_Aii.pdf",
+      "path" : "files/figures/figure_6_Aii.pdf",
+      "size" : 259113,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:6824ed52-139e-4c4f-916c-47bfdac0006c",
+      "s3VersionId" : "mCfVdIDfZOqI3NdYUJTd_F4WiPZnXIRC",
+      "sha256" : "GeTqUl7h8Jup7WbEmqgF9S/EPozSJqLEQ3YAiLUT9j8=-1"
+    },
+    {
+      "name" : "figure_6_B.pdf",
+      "path" : "files/figures/figure_6_B.pdf",
+      "size" : 15887,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:7c0ebe8e-060a-4019-bece-6cc964f6c968",
+      "s3VersionId" : "47Bfac1Z8smVVULEn1Rwlf1DmUXkhquH",
+      "sha256" : "QOSmqEy92KpG0x6CI4lFRRHJCLZq8JOvKPcP2AdOINM=-1"
+    },
+    {
+      "name" : "figure_6_C.pdf",
+      "path" : "files/figures/figure_6_C.pdf",
+      "size" : 16651,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:823d42f8-1687-4e42-ac08-fbc5d266d971",
+      "s3VersionId" : "dIihsINKSsxzyf7EkLHdOLPOIMiVD8ya",
+      "sha256" : "y8oG6yTaoY+DSFsfMChCZY70ba8/Wd8mE9YyQlqoSjU=-1"
+    },
+    {
+      "name" : "figure_7_A.pdf",
+      "path" : "files/figures/figure_7_A.pdf",
+      "size" : 9395,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:1afa4c51-ca67-45ef-b3b0-70df1732cf66",
+      "s3VersionId" : "oPdydFtcjpCWcQNq9kHOTcqnXs7KZlza",
+      "sha256" : "A1kko+FC94UqIUi98H4eRS9bLYKHW13PAJAG85Es06o=-1"
+    },
+    {
+      "name" : "figure_7_C.pdf",
+      "path" : "files/figures/figure_7_C.pdf",
+      "size" : 14813,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:d09fe302-7b63-41e3-97b3-d12cc21d7f28",
+      "s3VersionId" : "nonfmg5DfGl_DjuGuXCVNzi5lUSbuBAC",
+      "sha256" : "boLmXDZDekoQE5fOUpkzqtq92lRTVl/c/uw7zdiHRZA=-1"
+    },
+    {
+      "name" : "figure_7_D.pdf",
+      "path" : "files/figures/figure_7_D.pdf",
+      "size" : 14360,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:491fda51-4bc2-47b7-8ee7-8ba3a3aaac79",
+      "s3VersionId" : "8o5QvPG1unRyUh271OHiNpuQa6QSyKOY",
+      "sha256" : "jZJNCOIImrylvP1LTFJSVE2NWzDAQe4L8aaLod4hs3U=-1"
+    },
+    {
+      "name" : "figure_S2_A.pdf",
+      "path" : "files/figures/figure_S2_A.pdf",
+      "size" : 15536,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:de230825-3910-4d60-a000-85d4fb8d25bd",
+      "s3VersionId" : "Kk2iLEL56vvZRqaPszGJa2tvFAeLtY.I",
+      "sha256" : "09g3TMcP++M4gV9AYdW21/0lMcdULvIthkCNx4uD6VQ=-1"
+    },
+    {
+      "name" : "figure_S2_B.pdf",
+      "path" : "files/figures/figure_S2_B.pdf",
+      "size" : 15560,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:3c615489-809a-4224-99c2-18a4fda907bf",
+      "s3VersionId" : "Xg0hu7vavcc8r.ifBF_Dhz55YFWe.3JH",
+      "sha256" : "f4ENNse+TRNDvdn6SdunbV54tOXRhLHuabcLmN8bOEU=-1"
+    },
+    {
+      "name" : "figure_S3_A.pdf",
+      "path" : "files/figures/figure_S3_A.pdf",
+      "size" : 16061,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:6811446e-9b56-471e-bee5-598d49c77c58",
+      "s3VersionId" : "q7u4tnn7n2jxXTCwlEnwNiGP0aGZ8Y8w",
+      "sha256" : "OPC5ByhAA4nD4+GWPi5bl+f3xsJE9aCB+pMhf4rmvus=-1"
+    },
+    {
+      "name" : "figure_S3_Bi.pdf",
+      "path" : "files/figures/figure_S3_Bi.pdf",
+      "size" : 15763,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:6ce0655c-e84b-4488-90e2-c3abfe40c00b",
+      "s3VersionId" : "5hJRt.mf8D4lhjynqc_7QIQ27lcRCYYa",
+      "sha256" : "8DTwMCNRp1V1X3NkgjR5B2pK812EY/2sPIbfbVe73do=-1"
+    },
+    {
+      "name" : "figure_S3_Bii.pdf",
+      "path" : "files/figures/figure_S3_Bii.pdf",
+      "size" : 15525,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:098cf1e8-f3d9-457e-b6cf-d1736b5b525c",
+      "s3VersionId" : "aba6hVmOxHUOpnEMnb3nV._RuAHPWvrf",
+      "sha256" : "6m59eJoLEBZHA8dSYdsIYXOIm1NjoF+RpiZgryc0oog=-1"
+    },
+    {
+      "name" : "figure_S3_C.pdf",
+      "path" : "files/figures/figure_S3_C.pdf",
+      "size" : 16083,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:8113020b-6805-4918-a266-7fddd3d1f27f",
+      "s3VersionId" : "Q9wg07mAYBLcpPzS_BhjYa1xdXwGqlFz",
+      "sha256" : "U2LKv2NjZgVXlBpjxc1V6Fuk2AffNV98n29xrVdA2Yo=-1"
+    },
+    {
+      "name" : "figure_S3_Di.pdf",
+      "path" : "files/figures/figure_S3_Di.pdf",
+      "size" : 15783,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:a722ea05-8ad2-46c8-b5a4-499a20410ee1",
+      "s3VersionId" : "MY5mufLXDlboX044V3dbVBVMwmjP0Kz7",
+      "sha256" : "lVVIKLEDFc1DTa0Cvj3MBJpMEo9hFUdPwL4Fulc2Meo=-1"
+    },
+    {
+      "name" : "figure_S3_Dii.pdf",
+      "path" : "files/figures/figure_S3_Dii.pdf",
+      "size" : 15527,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:ff043603-6714-4e86-821d-3be3358929b9",
+      "s3VersionId" : "Oh8nFNKZnNFtFxciHiXBrU98LTLRPnnG",
+      "sha256" : "bRpVR1cgVIQQ9+bvtwI5MbaPil+7CkA+o0++ow4N7bQ=-1"
+    },
+    {
+      "name" : "figure_S4_A.pdf",
+      "path" : "files/figures/figure_S4_A.pdf",
+      "size" : 15743,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:5ae06a39-3385-489b-a48c-5ab70c1fe2ea",
+      "s3VersionId" : "7YPRejNJINm_S70kXfj32hn6hYMIt0Lf",
+      "sha256" : "AhFA6k9oHc/4NbLU228eAwmF6Ug9X5IfhE5CZHqj3FI=-1"
+    },
+    {
+      "name" : "figure_S4_B.pdf",
+      "path" : "files/figures/figure_S4_B.pdf",
+      "size" : 15847,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:74bc2bdb-94cd-4687-b1c7-6d14218bf7c0",
+      "s3VersionId" : "A9yCQavH5a7f.PKbKeaHjbV97OR6tpqs",
+      "sha256" : "lUuh8d2mHORxrIlVycqXolRyXlhh2O6PtLIRmO7nLYQ=-1"
+    },
+    {
+      "name" : "figure_S5_A.pdf",
+      "path" : "files/figures/figure_S5_A.pdf",
+      "size" : 9292,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:3b2e01e3-efa0-4008-b6df-a1af0bcbeb82",
+      "s3VersionId" : "dW1APJHzsnEn2wV_POokalO86xPAeweu",
+      "sha256" : "M6GqygESJQXb8w9cI8aWAdxtahT5NYQDSXqkB2ct0EA=-1"
+    },
+    {
+      "name" : "figure_S5_B.pdf",
+      "path" : "files/figures/figure_S5_B.pdf",
+      "size" : 10245,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:7eca9852-d7f0-4c24-a4e2-cb998d892ec8",
+      "s3VersionId" : "N8.3i2whRFbsbBLX4WyeExFWCMP6sWb_",
+      "sha256" : "aCur6v58euJHvg3rweh7X8feYbJ6BtW0YYDO1fRr0dE=-1"
+    },
+    {
+      "name" : "figure_S5_C.pdf",
+      "path" : "files/figures/figure_S5_C.pdf",
+      "size" : 9398,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:9ae7abc4-0548-42ea-9064-6b46ffee5c96",
+      "s3VersionId" : "lpt3zNNzcUzkMf8lyX9fvg6Vx6BpWe.Y",
+      "sha256" : "P9fmWbQBVMf4thl58DbaJ4bbmUXLLqof3D1klYWP7NQ=-1"
+    },
+    {
+      "name" : "figure_S5_D.pdf",
+      "path" : "files/figures/figure_S5_D.pdf",
+      "size" : 9441,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:79e35cc4-8787-47f6-b92f-f97e85cbb4e6",
+      "s3VersionId" : "3IYe_ZMr2I4i_IoKOFN_5tlWNM_tq6vt",
+      "sha256" : "bsI5wzxBlU/cgp8/BBiLVLMA9PgxskeRuMoaGhHGOhg=-1"
+    },
+    {
+      "name" : "figure_S5_E.pdf",
+      "path" : "files/figures/figure_S5_E.pdf",
+      "size" : 9407,
+      "fileType" : "PDF",
+      "sourcePackageId" : "N:package:b183be1c-ef8b-4f6b-acbc-1fc2bb77530e",
+      "s3VersionId" : "4_GuqJ7WVIJ1jlW12pH5XyzYJLtYK987",
+      "sha256" : "Q4+F1yG6aka0TNE7XsGwTGDunoBb9GrLL6RbZ1weFIA=-1"
+    },
+    {
+      "name" : "file.csv",
+      "path" : "metadata/records/file.csv",
+      "size" : 11877,
+      "fileType" : "CSV",
+      "s3VersionId" : "LBsqGwQpgSVzdRI6Y1z2a61Pk9_qSiIQ"
+    },
+    {
+      "name" : "manifest.json",
+      "path" : "manifest.json",
+      "size" : 36076,
+      "fileType" : "Json"
+    },
+    {
+      "name" : "optimized_predicted_channels_LSTM_tuned_thresholds_v4_sz-mean_pt-mean_smooth-med.pkl",
+      "path" : "files/PROCESSED_DATA/optimized_predicted_channels_LSTM_tuned_thresholds_v4_sz-mean_pt-mean_smooth-med.pkl",
+      "size" : 1504319,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:40944c5b-57be-45f1-8f4d-7b977e6e45b4",
+      "s3VersionId" : "wISuAWsC17BEC4_2kecEg8ISBEmSJKFl",
+      "sha256" : "lso0wJkGhaRMu1gxcMRA+MO0DC5g3hIL9feWH/HjzGA=-1"
+    },
+    {
+      "name" : "plot_st_sz_224.pkl",
+      "path" : "files/PROCESSED_DATA/plot_st_sz_224.pkl",
+      "size" : 41959689,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:79f876ed-d8f9-4f35-8f3a-a9f104339d0b",
+      "s3VersionId" : "qA3BULA0ie6Jvum7OkHLxrdaVDwMKe0K",
+      "sha256" : "Ss2yliGf5tw6lMGbIKON2NZEcjMwUu8iwbfC7iQu0bE=-1"
+    },
+    {
+      "name" : "plot_sz_224.pkl",
+      "path" : "files/PROCESSED_DATA/plot_sz_224.pkl",
+      "size" : 51859737,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:f918b853-ba3c-4b99-8466-bb0e44db4169",
+      "s3VersionId" : "sTrQHw2XMYBhccPkEZ4dykd.a7wKIYz.",
+      "sha256" : "qKaYR30MkyyYsiHH/NwJdFjyznSIup3erG2AYOEvI9E=-1"
+    },
+    {
+      "name" : "plot_sz_235.pkl",
+      "path" : "files/PROCESSED_DATA/plot_sz_235.pkl",
+      "size" : 26594253,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:8c152d57-2df1-4deb-b150-6f362f6e180b",
+      "s3VersionId" : "Px2HZIBQegjEuP.ugGvXYzqKdoNwGBU8",
+      "sha256" : "C8pF0TnbRz8UF8NG/nroBmHTkG1GOCA8oaeHysvozQE=-1"
+    },
+    {
+      "name" : "plot_sz_238.pkl",
+      "path" : "files/PROCESSED_DATA/plot_sz_238.pkl",
+      "size" : 34763721,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:74a50e31-6f7a-4d14-9385-495d7fc0f8e1",
+      "s3VersionId" : "s3BLJwYBV7f221Gx61koxVAD4jF6vCqz",
+      "sha256" : "7JTV2hXL6fvk0Jhw1CpyPU7RPT8IR2Zwr2b5XXMHnWg=-1"
+    },
+    {
+      "name" : "pretrain_predicted_channels_wmcc_epoch-10_min-False_mov-mean-20-prob_v3.pkl",
+      "path" : "files/PROCESSED_DATA/pretrain_predicted_channels_wmcc_epoch-10_min-False_mov-mean-20-prob_v3.pkl",
+      "size" : 349925924,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:679c3741-b4d6-47a4-921c-81383c6a74c4",
+      "s3VersionId" : "pzvdnAMMGCe8zs5DoQYIt6K6BOgiAkdw",
+      "sha256" : "ZnzwnbhY+UpvAsRz3/aG4G2j/LZeTMdH55f3CefXsPE=-1"
+    },
+    {
+      "name" : "pretrain_probability_matrix_nosmooth_mdl-LSTM_fs-128_montage-bipolar_task-ictal294225_run-00.pkl",
+      "path" : "files/PROCESSED_DATA/HUP238/pretrain_probability_matrix_nosmooth_mdl-LSTM_fs-128_montage-bipolar_task-ictal294225_run-00.pkl",
+      "size" : 280498,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:8ff682ce-3215-4dc9-a42f-20d851d13ebd",
+      "s3VersionId" : "ECttxDMkEP8aUyyKfArqSu7NEDHMKRTX",
+      "sha256" : "0dJSF7OGqSHYGLR+yqye98lckA4Mb4yqPmL4nnKGXx4=-1"
+    },
+    {
+      "name" : "readme.md",
+      "path" : "readme.md",
+      "size" : 1915,
+      "fileType" : "Markdown",
+      "s3VersionId" : "4uJcS77V_YpLqWuCpFP.PzmenYfyHWS2"
+    },
+    {
+      "name" : "schema.json",
+      "path" : "metadata/schema.json",
+      "size" : 567,
+      "fileType" : "Json",
+      "s3VersionId" : "5rtcWPRP3BMHqmQFyEpajsvMkwnbRcQT"
+    },
+    {
+      "name" : "stim_info.mat",
+      "path" : "files/METADATA/stim_info.mat",
+      "size" : 138777,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:d38ee6d8-b907-42ba-811c-938c27d8f84a",
+      "s3VersionId" : "B0826GMmjWHhP.cgWGwkdVtjskQkPLjS",
+      "sha256" : "mg9piCmKfYQ48elF4iE4zwQifeXQ77u4uOHPsJDFu/g=-1"
+    },
+    {
+      "name" : "stim_info_chop.mat",
+      "path" : "files/METADATA/stim_info_chop.mat",
+      "size" : 118554,
+      "fileType" : "MATLAB",
+      "sourcePackageId" : "N:package:d9790976-c42b-43b6-92b4-152c6d837af6",
+      "s3VersionId" : "V5IT_WZr4zKg4R7wcOhsZgVhJRGuYS.w",
+      "sha256" : "IeWjpGuD5MsyDR791xCs9TYRan85+I3ee0+F15LtJMs=-1"
+    },
+    {
+      "name" : "stim_seizure_information - LF_seizure_annotation.csv",
+      "path" : "files/METADATA/stim_seizure_information_-_LF_seizure_annotation.csv",
+      "size" : 27334,
+      "fileType" : "CSV",
+      "sourcePackageId" : "N:package:670acce2-bc33-4258-8f1e-501608b747c1",
+      "s3VersionId" : "ko6KL1.C7cfuVWhj96WVZErwk8VWPJkt",
+      "sha256" : "oU3iqhUc7Lscmzcbf1DEJsGyFD4dcJRTmD1IXqjWBD4=-1"
+    },
+    {
+      "name" : "stim_seizure_information - metadata-4.csv",
+      "path" : "files/METADATA/stim_seizure_information_-_metadata-4.csv",
+      "size" : 1690,
+      "fileType" : "CSV",
+      "sourcePackageId" : "N:package:b535526b-9666-4a94-864e-af4fd1bb8ad7",
+      "s3VersionId" : "Xvx0qZCwifPC1cqOU2mfpQWdVbpCU.4u",
+      "sha256" : "7GoledVgvETG4Xzc6diRK3hZVZBlt2aWn8Wsd+RBg3A=-1"
+    },
+    {
+      "name" : "stim_seizure_information_BIDS.csv",
+      "path" : "files/METADATA/stim_seizure_information_BIDS.csv",
+      "size" : 29294,
+      "fileType" : "CSV",
+      "sourcePackageId" : "N:package:f2d23be6-6453-4c40-84f1-8222f6083445",
+      "s3VersionId" : "NRSSERXczIX.enlxBHwJErQqCR5SbeOA",
+      "sha256" : "wN56TJVgHkedFvNJC+a6mnTEFeVx6ccUXU70oLEAsdc=-1"
+    },
+    {
+      "name" : "sz_spread_and_plot_mat_HUP235.h5",
+      "path" : "files/PROCESSED_DATA/sz_spread_and_plot_mat_HUP235.h5",
+      "size" : 424504,
+      "fileType" : "HDF5",
+      "sourcePackageId" : "N:package:66bd56f3-7342-4f32-b24a-5bb7260e7acb",
+      "s3VersionId" : "j.DY2VquV8cCkeyHqXOX5NSjhgLinjzQ",
+      "sha256" : "LyQtlGIEeL5pz4b2UKxSu+548OnO3+2MGU+0AdHa4ts=-1"
+    },
+    {
+      "name" : "sz_spread_and_plot_mat_HUP238.h5",
+      "path" : "files/PROCESSED_DATA/sz_spread_and_plot_mat_HUP238.h5",
+      "size" : 556992,
+      "fileType" : "HDF5",
+      "sourcePackageId" : "N:package:49d59096-4f56-4af4-8310-c48a49f66298",
+      "s3VersionId" : "YwN2AEOtZ3_dKRcLcz_3LUoA_2kiMIMl",
+      "sha256" : "dB2IeuFCrEGztqXX4oPYx4L2Sr5IPwSntRXhD+dq6nw=-1"
+    },
+    {
+      "name" : "threshold_tuning_consensus_v2.pkl",
+      "path" : "files/PROCESSED_DATA/threshold_tuning_consensus_v2.pkl",
+      "size" : 237882,
+      "fileType" : "GenericData",
+      "sourcePackageId" : "N:package:b365c361-1c91-41cf-beed-7c75581b2d2a",
+      "s3VersionId" : "wPDnc7K_YxS80eMur5GuaSKD719Ql5ha",
+      "sha256" : "N8MuKi2OHLeM7EtGGixvcilDGzd1xDsM1qy1Ltky2BM=-1"
+    }
+  ],
+  "pennsieveSchemaVersion" : "5.0"
+}
