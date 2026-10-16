@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
-  "title": "Ojemann-2025-automated-10.1101/2025.08.29.25334082",
+  "title": "stim-seizures (Ojemann et al.; HUP + CHOP): seizure annotations, electrode localisations and preprocessed SEEG seizure traces (derivative)",
   "description": "A derivative BIDS-iEEG repackaging of the processed data released with a study of low-frequency (1 Hz) electrical stimulation-induced seizures in patients undergoing intracranial EEG evaluation at HUP and CHOP. It includes patient metadata, clinician-marked and LSTM model-derived seizure annotations, electrode localizations, and a small set of preprocessed seizure traces. No raw iEEG recordings are included.",
   "methods_description": "Patients underwent intracranial EEG monitoring and received 1 Hz electrical stimulation. Seizures were annotated by clinicians and by an optimized LSTM seizure-mapping model. Electrodes were localized to atlas regions, and example seizure traces were preprocessed as bipolar SEEG at 128 Hz.",
   "license": "CC-BY-NC-SA-4.0",
@@ -89,5 +89,5 @@
     ".vmrk",
     ".yml"
   ],
-  "source_hash": "7ea1ec8a9f1f8467a55f530f29ae4a4b3d92b25ea1e7aab9129241f676da51e5"
+  "source_hash": "b213481cd39f1ebe9bc9fe4ecebb57555378d38298c05e4b136286480d963170"
 }
