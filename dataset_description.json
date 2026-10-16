@@ -1,5 +1,5 @@
 {
-  "Name": "stim-seizures (Ojemann et al.; HUP + CHOP): seizure annotations, electrode localisations and preprocessed SEEG seizure traces (derivative)",
+  "Name": "Ojemann-2025-automated-10.1101/2025.08.29.25334082",
   "BIDSVersion": "1.10.0",
   "DatasetType": "derivative",
   "License": "CC-BY-NC-SA-4.0",
@@ -38,5 +38,5 @@
     }
   ],
   "DatasetDOI": "10.82901/nemar.nm000462",
-  "Version": "1.0.0"
+  "Version": "1.0.1"
 }
