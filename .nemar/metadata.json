@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "stim-seizures (Ojemann et al.; HUP + CHOP): seizure annotations, electrode localisations and preprocessed SEEG seizure traces (derivative)",
-  "description": "A derivative BIDS-iEEG repackaging of the processed data released with a study of low-frequency (1 Hz) electrical stimulation-induced seizures in patients undergoing intracranial EEG evaluation at HUP and CHOP. It includes patient metadata, clinician-marked and LSTM model-derived seizure annotations, electrode localizations, and a small set of preprocessed seizure traces. No raw iEEG recordings are included.",
-  "methods_description": "Patients underwent intracranial EEG monitoring and received 1 Hz electrical stimulation. Seizures were annotated by clinicians and by an optimized LSTM seizure-mapping model. Electrodes were localized to atlas regions, and example seizure traces were preprocessed as bipolar SEEG at 128 Hz.",
+  "description": "A derivative BIDS-iEEG repackaging of the processed data released with the stim-seizures study, in which patients at HUP and CHOP underwent intracranial EEG and received low-frequency (1 Hz) electrical stimulation. It provides per-seizure annotations (clinician-marked and LSTM model-derived), electrode localisations with atlas labels, and four preprocessed bipolar SEEG seizure traces. No raw iEEG recordings are included.",
+  "methods_description": "Patients were evaluated with intracranial EEG at HUP and CHOP and received 1 Hz electrical stimulation. Seizures were annotated by clinicians and by an optimized LSTM model. Electrode contacts were localised to atlas labels. Seizure traces were preprocessed to bipolar SEEG at 128 Hz and stored as BrainVision float32.",
   "license": "CC-BY-NC-SA-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -23,25 +23,20 @@
       "term": "stereo-EEG"
     },
     {
-      "term": "Electric Stimulation",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004558"
-    },
-    {
       "term": "Seizures",
       "subject_scheme": "MeSH",
       "value_uri": "http://id.nlm.nih.gov/mesh/D012640"
     },
     {
-      "term": "Epilepsy",
+      "term": "Electric Stimulation",
       "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004558"
     },
     {
       "term": "seizure annotation"
     },
     {
-      "term": "LSTM"
+      "term": "epilepsy"
     }
   ],
   "related_identifiers": [
