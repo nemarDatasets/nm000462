@@ -54,3 +54,7 @@ Verbatim from the preprint (medRxiv doi:10.1101/2025.08.29.25334082, Author Decl
 the Hospital of the University of Pennsylvania (HUP) and the Children's Hospital of Philadelphia (CHOP) approved retrospective analysis
 of EEG and clinical data for all patients. Stimulation was performed under IRB-approved research by the IRB at each institution (14 HUP
 patients; all CHOP patients) or clinical protocols (HUP, N = 41)."
+
+## RecordingType (18 Oct 2026)
+
+4 data files were marked `RecordingType` epoched without a usable epoch definition (no `EpochLength`, or `EpochLength` equal to the whole file). Each of them is ONE contiguous excerpt (no segment boundary in the .vmrk, no gap): there is nothing to cut into epochs, `read_raw_bids` refuses epoched files and `read_epochs_bids` failed (missing `EpochLength`, or an epoch dropped for every event that does not start at sample 0). `RecordingType` is now continuous (and `EpochLength` removed where it was present, 0 files); the files read with `read_raw_bids` and every event stays an annotation. The excerpts are still the authors' fixed windows (see above); only the BIDS label changed.
